@@ -9,7 +9,7 @@ I build trustworthy analytics foundations (clean data, clear definitions) and de
 ### 🛠️ Skills & Tools
 
 - **Analytics & BI:** Tableau, Power BI  
-- **Data & Code:** SQL,Bash, Python (Pandas, NumPy, Matplotlib)  
+- **Data & Code:** SQL,Bash, Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - **Pipelines & Warehouses:** Alteryx, Airflow, Snowflake, Amazon Redshift, MySQL, Oracle  
 - **Ways of Working:** A/B testing, cohort analysis, funnel analysis, data storytelling
 
