@@ -1,53 +1,19 @@
-👋# **Denis Agyapong**
-
-**Product Data Scientist | Data Analyst**
-
-📍 Oakland, CA
-📧 vantjohnn@gmail.com
-🔗 LinkedIn
-📊 Tableau Public
-
-**Specializing in KPI dashboards, experimentation, and analytics automation.**
-
-🚀 About Me
-
-I am a Product Data Scientist / Data Analyst with 7+ years of experience supporting product, business, and operational decisions through advanced analytics and intermediate-level Product Data Science.
-
-
-
-I bring strong SQL and Python expertise, combined with business storytelling and dashboarding using Power BI and Tableau, across insurance and healthcare domains..
----
-
-
-### 🌍 Links
-
-- [LinkedIn](https://www.linkedin.com/in/denis-agyapong)
-- [Tableau Public](https://public.tableau.com/app/profile/denis.king)
-- **Email:** vantjohnn@gmail.com
-- **GitHub:** [Denis0242](https://github.com/Denis0242)
-
----
-
-
-
-
-
 # 👋 **Denis Agyapong**  
 **Product Data Scientist | Advanced Data Analyst**
 
-### 🌍 Links
+### 🌍 Links:
 📍 Oakland, CA  
 📧 vantjohnn@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/denis-agyapong)  
 📊 [Tableau Public](https://public.tableau.com/profile/denis.king)  
--  **GitHub:** [Denis0242](https://github.com/Denis0242)
+🌍 [GitHub Denis0242](https://github.com/Denis0242)
 ---
 
 ## 🚀 About Me
 
 I am a **Product Data Scientist / Data Analyst with 7+ years of experience** supporting product and business decisions through **advanced analytics and intermediate-level Product Data Science**.
 
-My work focuses on:
+**My work focuses on:**
 - Product metrics (NSM, AARRR, HEART, DAU/WAU/MAU)
 - Experimentation & A/B testing
 - Funnel, cohort, retention, and churn analysis
@@ -97,9 +63,11 @@ My work focuses on:
 ### 🔹 Experimentation & Feature Impact
 **Tools:** SQL, Python  
 - Designed experiments and analyzed results  
-- Communicated insights to stakeholders  
+- Communicated insights to stakeholders
 
-###🔹 **Fraudulent Claims Risk Dashboard**
+📂 Repo: See repository
+
+### 🔹 Fraudulent Claims Risk Dashboard
 **Tools:** SQL, Python, Tableau:
 - Built an interactive risk monitoring dashboard
 - Reduced manual review time by 30%
@@ -110,34 +78,33 @@ My work focuses on:
 ---
 
 ### 💼 **Professional Experience**
-
 **Product Data Scientist / Data Analyst — Aon**
-**San Francisco, CA | Jan 2022 – Present
-**Designed and analyzed A/B experiments, improving product decision confidence by 20%+
-**Built churn models enabling targeted retention strategies (+8% retention impact)
-**Conducted cohort, retention, and segmentation analyses to inform product prioritization
-**Developed funnel analytics to identify activation and conversion drop-offs
-**Defined and monitored North Star and supporting product metrics
-**Partnered with Product Managers and Engineering to inform roadmap decisions
-**Built Power BI & Tableau dashboards, improving insight visibility by 40%
+- San Francisco, CA | Jan 2022 – Present
+- Designed and analyzed A/B experiments, improving product decision confidence by 20%+
+- Built churn models enabling targeted retention strategies (+8% retention impact)
+- Conducted cohort, retention, and segmentation analyses to inform product prioritization
+- Developed funnel analytics to identify activation and conversion drop-offs
+- Defined and monitored North Star and supporting product metrics
+- Partnered with Product Managers and Engineering to inform roadmap decisions
+- Built Power BI & Tableau dashboards, improving insight visibility by 40%
 
-**Data Analyst — Kaiser Permanente**
-Pleasanton, CA | Feb 2019 – Dec 2022
-**Designed BI dashboards tracking healthcare KPIs and utilization metrics
-**Analyzed large-scale datasets using SQL and Python
-**Built and maintained ETL workflows using Alteryx and Python
-**Performed EDA to improve data quality and reporting reliability
+### **Data Analyst — Kaiser Permanente**
+**Pleasanton, CA | Feb 2019 – Dec 2022**
+- Designed BI dashboards tracking healthcare KPIs and utilization metrics
+- Analyzed large-scale datasets using SQL and Python
+- Built and maintained ETL workflows using Alteryx and Python
+- Performed EDA to improve data quality and reporting reliability
 
-###🎓 **Education & Certifications**
+### 🎓 **Education & Certifications**
 
 **Bachelor’s Degree in Mathematics**
-**University of Education, Winneba
+  University of Education, Winneba
 
 ### **Certifications**
-**Tableau Desktop Specialist
-**AWS Cloud Practitioner
-**CompTIA Security+
-**Power BI Data Analyst (PL-300) – In progress
+- Tableau Desktop Specialist
+- AWS Cloud Practitioner
+- CompTIA Security+
+- Power BI Data Analyst (PL-300) – In progress
 
 
 ## 📬 Let’s Connect
