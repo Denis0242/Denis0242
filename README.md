@@ -58,7 +58,7 @@ I am a **Product Data Scientist / Data Analyst with 7+ years of experience** sup
 - Delivered product-focused retention recommendations based on model insights
 - Conducted funnel and cohort analysis to identify key churn points across the user lifecycle
   
-📂 Repo: See repository
+📂 Repo: 🔗 Repository: [Customer-Churn](https://github.com/Denis0242/Customer-Churn)
 
 ### 🔹 Experimentation & Feature Impact
 **Tools:** SQL, Python  
@@ -73,7 +73,7 @@ I am a **Product Data Scientist / Data Analyst with 7+ years of experience** sup
 - Reduced manual review time by 30%
 - Helped avoid approximately $120K in fraud losses through better visibility
 
-📊 Dashboard: Tableau Public link
+📊 Dashboard: Tableau Public link: [Tableau Public](https://public.tableau.com/profile/denis.king) 
 
 ---
 
