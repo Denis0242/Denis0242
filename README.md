@@ -6,7 +6,7 @@
 📧 vantjohnn@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/denis-agyapong)  
 📊 [Tableau Public](https://public.tableau.com/profile/denis.king)  
-🌍 [GitHub Denis0242](https://github.com/Denis0242)
+🐙 [GitHub](https://github.com/Denis0242)
 ---
 
 ## 🚀 About Me
