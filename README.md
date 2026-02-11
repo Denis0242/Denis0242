@@ -1,4 +1,4 @@
-# 👋 **Denis Agyapong**  
+#  **Denis Agyapong**  
 **Product Data Scientist | Advanced Data Analyst**
 
 ### 🌍 Links:
