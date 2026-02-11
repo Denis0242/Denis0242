@@ -1,5 +1,5 @@
 #  **Denis Agyapong**  
-**Product Data Scientist | Advanced Data Analyst**
+**Product Data Scientist | Data Analyst**
 
 ### 🌍 Links:
 📍 Oakland, CA  
