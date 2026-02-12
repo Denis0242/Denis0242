@@ -65,7 +65,7 @@ I am a **Product Data Scientist / Data Analyst with 7+ years of experience** sup
 - Designed experiments and analyzed results  
 - Communicated insights to stakeholders
 
-📂 Repo: See repository
+📂 Repo: See repository:[Customer-Churn](https://github.com/Denis0242/Customer-Churn)
 
 ### 🔹 Fraudulent Claims Risk Dashboard
 **Tools:** SQL, Python, Tableau:
