@@ -1,111 +1,149 @@
-#  **Denis Agyapong**  
-**Product Data Scientist | Data Analyst**
+# Denis Agyapong ##
+  
+### Product Data Analyst | Python, SQL, Experimentation, Funnel & Retention Analytics  
 
 ### 🌍 Links:
+
 📍 Oakland, CA  
 📧 vantjohnn@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/denis-agyapong)  
 📊 [Tableau Public](https://public.tableau.com/profile/denis.king)  
 🐙 [GitHub](https://github.com/Denis0242)
----
-
-## 🚀 About Me
-
-I am a **Product Data Scientist / Data Analyst with 7+ years of experience** supporting product and business decisions through **advanced analytics and intermediate-level Product Data Science**.
-
-**My work focuses on:**
-- Product metrics (NSM, AARRR, HEART, DAU/WAU/MAU)
-- Experimentation & A/B testing
-- Funnel, cohort, retention, and churn analysis
-- Feature impact analysis
-- Translating insights into product decisions
 
 ---
 
-## 🧠 Core Skills & Tools
 
-### 📊 Product Data Science & Analytics
-- Funnel & Cohort Analysis
-- Retention & Churn, Feature Impact Analysis
-- Product Metrics, NSM, AARRR, HEART, DAU / WAU / MAU
-- Causal Thinking & Decision Support
-  
-### 🧪 Experimentation & Statistics
-- A/B Testing & Experiment Design
-- Lift , Confidence Intervals, p-values
-- Guardrail Metrics, Hypothesis Testing
-  
-### 🤖 Modeling & Machine Learning (Applied)
-- Logistic Regression
-- Random Forest, K-Means
-- Model Evaluation (ROC-AUC, Confusion Matrix, Lift)
-- Feature Engineering & EDA
+I build end-to-end product analytics projects that simulate real-world decision-making — from tracking user behavior and diagnosing funnel drop-offs to evaluating A/B tests and predicting churn.
 
-### 🧰 Data & Tools
-- Power BI, Tableau, Google Data Studio
-- Git, Streamlit, Docker (basic), Fast API (basic)
-- SQL (joins, CTEs, window functions)
-- Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Statsmodels)
-- Alteryx, Power Query, Prefect
+_My work focuses on answering core product questions_:
+- Where are users dropping off?
+- What features drive activation and retention?
+- Did this experiment actually improve the product?
+- Which users are at risk of churn and why?
 
 ---
 
-## 📁 Featured Product Data Science Projects
+## 🔍 What I Do  
 
-### 🔹 Customer Churn & Retention Analysis
-**Tools:** Python, SQL  
-- Built churn prediction models using behavioral features
-- Delivered product-focused retention recommendations based on model insights
-- Conducted funnel and cohort analysis to identify key churn points across the user lifecycle
-  
-📂 Repo: 🔗 Repository: [Customer-Churn](https://github.com/Denis0242/Customer-Churn)
-
-### 🔹 Experimentation & Feature Impact
-**Tools:** SQL, Python  
-- Designed experiments and analyzed results  
-- Communicated insights to stakeholders
-
-📂 Repo: See repository:[Customer-Churn](https://github.com/Denis0242/Customer-Churn)
-
-### 🔹 Fraudulent Claims Risk Dashboard
-**Tools:** SQL, Python, Tableau:
-- Built an interactive risk monitoring dashboard
-- Reduced manual review time by 30%
-- Helped avoid approximately $120K in fraud losses through better visibility
-
-📊 Dashboard: Tableau Public link: [Tableau Public](https://public.tableau.com/profile/denis.king) 
+- Analyze user behavior using funnel, cohort, and retention analysis  
+- Design and evaluate A/B tests with statistical rigor  
+- Build KPI frameworks (DAU, WAU, MAU, conversion, retention)  
+- Develop interactive dashboards for product decision-making  
+- Apply machine learning for churn prediction and user segmentation  
+- Translate data insights into actionable product recommendations  
 
 ---
 
-### 💼 **Professional Experience**
-**Product Data Scientist / Data Analyst — Aon**
-- San Francisco, CA | Jan 2022 – Present
-- Designed and analyzed A/B experiments, improving product decision confidence by 20%+
-- Built churn models enabling targeted retention strategies (+8% retention impact)
-- Conducted cohort, retention, and segmentation analyses to inform product prioritization
-- Developed funnel analytics to identify activation and conversion drop-offs
-- Defined and monitored North Star and supporting product metrics
-- Partnered with Product Managers and Engineering to inform roadmap decisions
-- Built Power BI & Tableau dashboards, improving insight visibility by 40%
+## 🚀 Featured Product Analytics Projects  
 
-### **Data Analyst — Kaiser Permanente**
-**Pleasanton, CA | Feb 2019 – Dec 2022**
-- Designed BI dashboards tracking healthcare KPIs and utilization metrics
-- Analyzed large-scale datasets using SQL and Python
-- Built and maintained ETL workflows using Alteryx and Python
-- Performed EDA to improve data quality and reporting reliability
+### 🧪 Experimentation & A/B Testing  
+**A/B Testing Simulator (FastAPI + Statistics)**  
+🔗 https://github.com/Denis0242/AB_test_with_stats  
 
-### 🎓 **Education & Certifications**
+- Built an end-to-end experimentation framework to simulate real product experiments  
+- Implemented hypothesis testing, confidence intervals, and power analysis  
+- Supports go/no-go product decisions based on statistical significance  
+- Designed to mirror real experimentation workflows used by product teams  
 
-**Bachelor’s Degree in Mathematics**
-  University of Education, Winneba
+---
 
-### **Certifications**
-- Tableau Desktop Specialist
-- AWS Cloud Practitioner
-- CompTIA Security+
-- Power BI Data Analyst (PL-300) – In progress
+### 📊 Customer Product Journey Analytics  
+**Customer Product Analytics Dashboard (Streamlit + Plotly)**  
+🔗 https://github.com/Denis0242/customer-product-journey  
 
+- Analyzed full user lifecycle from acquisition → activation → retention  
+- Identified drop-off points and behavioral patterns across segments  
+- Built interactive dashboards to monitor product performance and engagement  
+- Provided insights to optimize user journey and improve conversion  
 
-## 📬 Let’s Connect
-If you’re interested in **Product Data Science or Growth Analytics or Product Analytics**, feel free to reach out.
+---
+
+### 🏥 Healthcare Product Analytics  
+**CareFlow – Patient Journey & Risk Analytics (Streamlit + ML)**  
+🔗 https://github.com/Denis0242/CareFlow  
+
+- Modeled patient journey flows to identify inefficiencies in healthcare systems  
+- Applied predictive analytics to detect high-risk patients  
+- Built dashboards to track operational KPIs and care outcomes  
+- Simulates product analytics use cases in healthcare environments  
+
+---
+
+### 🔁 Churn & Retention Analysis  
+**Customer Churn Prediction (Streamlit + Machine Learning)**  
+🔗 https://github.com/Denis0242/Customer-Churn  
+
+- Built predictive models to identify users at high risk of churn  
+- Analyzed retention drivers and behavioral patterns  
+- Used feature importance to explain churn causes  
+- Provided actionable retention strategies based on insights  
+
+---
+
+### 📈 Healthcare KPI Dashboard  
+**Kaiser Healthcare Analytics Dashboard (Streamlit + BI Concepts)**  
+🔗 https://github.com/Denis0242/Kaiser_Dashboard  
+
+- Developed KPI dashboards for operational and quality metrics  
+- Performed EDA on healthcare datasets to uncover trends  
+- Simulated real-world reporting workflows in healthcare analytics  
+
+---
+
+### 📡 Telecom Data Analysis  
+**Telecom Usage & Behavior Dashboard (Streamlit + EDA)**  
+🔗 https://github.com/Denis0242/Telecom_Analysis  
+
+- Explored user activity patterns across telecom services  
+- Analyzed usage, session behavior, and traffic distribution  
+- Built dashboards for monitoring performance and anomalies  
+
+---
+
+## 🛠️ Tools & Technologies  
+
+**Languages & Analysis**  
+Python (Pandas, NumPy, Scikit-learn, Statsmodels), SQL  
+
+**Visualization & Dashboards**  
+Streamlit, Plotly, Power BI, Tableau  
+
+**Experimentation & Analytics**  
+A/B Testing, Hypothesis Testing, Funnel Analysis, Cohort Analysis, Retention Metrics  
+
+**Data Engineering & Workflow**  
+Prefect, Git, GitHub, FastAPI 
+
+---
+
+## 📌 How to Use My Projects  
+
+_Each repository includes_:
+- Business problem definition  
+- Dataset overview  
+- Analytical approach  
+- Key insights and recommendations  
+- Instructions to run locally or view live dashboards  
+
+---
+
+## 🎯 What I’m Targeting  
+
+**I am currently focused on roles such as:**  
+- Product Data Analyst  
+- Product Analyst  
+- Data Analyst (Product-focused)  
+
+---
+
+## 🤝 Let’s Connect  
+
+- LinkedIn: https://www.linkedin.com/denis-agyapong 
+- GitHub: https://github.com/Denis0242  
+
+---
+
+## 💡 Final Note  
+
+This portfolio is built to reflect how product teams actually use data —  
+not just to analyze, but to **drive decisions, improve features, and grow products**.
