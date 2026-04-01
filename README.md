@@ -1,149 +1,130 @@
-# Denis Agyapong ##
-  
-### Product Data Analyst | Python, SQL, Experimentation, Funnel & Retention Analytics  
+# Denis Agyapong
 
-### 🌍 Links:
+### Product Data Analyst | 2+ yrs Product Analytics | 4+ yrs Healthcare Analytics
 
 📍 Oakland, CA  
-📧 vantjohnn@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/denis-agyapong)  
-📊 [Tableau Public](https://public.tableau.com/profile/denis.king)  
-🐙 [GitHub](https://github.com/Denis0242)
+📧 Email    : vantjohnn@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/denis-agyapong  
+📊 Tableau: https://public.tableau.com/profile/denis.king  
+🐙 GitHub: https://github.com/Denis0242  
 
 ---
 
+## 🚀 About Me
 
-I build end-to-end product analytics projects that simulate real-world decision-making — from tracking user behavior and diagnosing funnel drop-offs to evaluating A/B tests and predicting churn.
+I build end-to-end product analytics solutions that help teams understand user behavior, optimize product performance, and make data-driven decisions.
 
-_My work focuses on answering core product questions_:
-- Where are users dropping off?
-- What features drive activation and retention?
-- Did this experiment actually improve the product?
-- Which users are at risk of churn and why?
 
----
+## 🧠 Portfolio Focus
+This portfolio simulates how product teams use data across the full lifecycle:
+User Acquisition → Activation → Engagement → Retention → Churn → Experimentation
 
-## 🔍 What I Do  
+----
 
-- Analyze user behavior using funnel, cohort, and retention analysis  
-- Design and evaluate A/B tests with statistical rigor  
-- Build KPI frameworks (DAU, WAU, MAU, conversion, retention)  
-- Develop interactive dashboards for product decision-making  
-- Apply machine learning for churn prediction and user segmentation  
-- Translate data insights into actionable product recommendations  
+My work focuses on:
+- 📉 Identifying funnel drop-offs and improving conversion  
+- 📊 Measuring feature adoption and user engagement  
+- 🧪 Designing and evaluating A/B experiments  
+- 🔁 Analyzing retention and churn drivers  
 
 ---
 
-## 🚀 Featured Product Analytics Projects  
+## 🧠 Core Product Analytics Skills
 
-### 🧪 Experimentation & A/B Testing  
+- Funnel Analysis (Acquisition → Activation → Retention)  
+- Cohort & Retention Analysis  
+- A/B Testing & Experimentation  
+- KPI Design (DAU, MAU, Conversion, Retention)  
+- User Segmentation & Behavior Analysis  
+
+---
+
+## 📊 Featured Product Analytics Projects
+
+### 🧪 A/B Testing & Experimentation  
 **A/B Testing Simulator (FastAPI + Statistics)**  
 🔗 https://github.com/Denis0242/AB_test_with_stats  
 
-- Built an end-to-end experimentation framework to simulate real product experiments  
-- Implemented hypothesis testing, confidence intervals, and power analysis  
-- Supports go/no-go product decisions based on statistical significance  
-- Designed to mirror real experimentation workflows used by product teams  
+- Built experimentation framework with hypothesis testing, confidence intervals, and power analysis  
+- Enabled go/no-go product decisions using statistical significance  
+- Simulates real-world product experimentation workflows  
 
 ---
 
-### 📊 Customer Product Journey Analytics  
+### 📈 Customer Product Journey Analytics  
 **Customer Product Analytics Dashboard (Streamlit + Plotly)**  
 🔗 https://github.com/Denis0242/customer-product-journey  
 
-- Analyzed full user lifecycle from acquisition → activation → retention  
-- Identified drop-off points and behavioral patterns across segments  
-- Built interactive dashboards to monitor product performance and engagement  
-- Provided insights to optimize user journey and improve conversion  
+- Analyzed user lifecycle from acquisition → activation → retention  
+- Identified funnel drop-offs and behavioral patterns across segments  
+- Built interactive dashboards to monitor engagement and conversion  
 
 ---
 
-### 🏥 Healthcare Product Analytics  
-**CareFlow – Patient Journey & Risk Analytics (Streamlit + ML)**  
+### 🏥 CarePath Analytics (Healthcare)  
+**Patient Journey & Risk Analytics (Streamlit + ML)**  
 🔗 https://github.com/Denis0242/CareFlow  
 
-- Modeled patient journey flows to identify inefficiencies in healthcare systems  
+- Modeled patient care pathways to identify inefficiencies  
 - Applied predictive analytics to detect high-risk patients  
 - Built dashboards to track operational KPIs and care outcomes  
-- Simulates product analytics use cases in healthcare environments  
 
 ---
 
-### 🔁 Churn & Retention Analysis  
+### 🔁 Churn & Retention Analytics  
 **Customer Churn Prediction (Streamlit + Machine Learning)**  
 🔗 https://github.com/Denis0242/Customer-Churn  
 
 - Built predictive models to identify users at high risk of churn  
 - Analyzed retention drivers and behavioral patterns  
-- Used feature importance to explain churn causes  
-- Provided actionable retention strategies based on insights  
+- Generated actionable insights to improve retention  
 
 ---
 
-### 📈 Healthcare KPI Dashboard  
+### 📊 Healthcare KPI Dashboard  
 **Kaiser Healthcare Analytics Dashboard (Streamlit + BI Concepts)**  
 🔗 https://github.com/Denis0242/Kaiser_Dashboard  
 
 - Developed KPI dashboards for operational and quality metrics  
-- Performed EDA on healthcare datasets to uncover trends  
-- Simulated real-world reporting workflows in healthcare analytics  
+- Performed EDA to uncover trends in healthcare performance  
+- Simulated real-world reporting workflows  
 
 ---
 
-### 📡 Telecom Data Analysis  
-**Telecom Usage & Behavior Dashboard (Streamlit + EDA)**  
+### 📡 Telecom Usage & Behavior Analytics  
+**Telecom Dashboard (Streamlit + EDA)**  
 🔗 https://github.com/Denis0242/Telecom_Analysis  
 
-- Explored user activity patterns across telecom services  
-- Analyzed usage, session behavior, and traffic distribution  
-- Built dashboards for monitoring performance and anomalies  
+- Analyzed user activity patterns and service usage  
+- Built dashboards to monitor engagement and anomalies  
+- Explored behavioral trends across telecom data  
 
 ---
 
-## 🛠️ Tools & Technologies  
+## 🛠️ Tools & Technologies
 
 **Languages & Analysis**  
 Python (Pandas, NumPy, Scikit-learn, Statsmodels), SQL  
 
 **Visualization & Dashboards**  
-Streamlit, Plotly, Power BI, Tableau  
+Streamlit, Plotly, Tableau, Power BI  
 
 **Experimentation & Analytics**  
-A/B Testing, Hypothesis Testing, Funnel Analysis, Cohort Analysis, Retention Metrics  
+A/B Testing, Hypothesis Testing, Funnel Analysis, Cohort Analysis  
 
-**Data Engineering & Workflow**  
-Prefect, Git, GitHub, FastAPI 
-
----
-
-## 📌 How to Use My Projects  
-
-_Each repository includes_:
-- Business problem definition  
-- Dataset overview  
-- Analytical approach  
-- Key insights and recommendations  
-- Instructions to run locally or view live dashboards  
+**Workflow & Tools**  
+Git, GitHub, FastAPI, Prefect  
 
 ---
 
-## 🎯 What I’m Targeting  
+## 🎯 What I’m Targeting
 
-**I am currently focused on roles such as:**  
 - Product Data Analyst  
 - Product Analyst  
 - Data Analyst (Product-focused)  
 
 ---
 
-## 🤝 Let’s Connect  
+## 💡 Final Note
 
-- LinkedIn: https://www.linkedin.com/denis-agyapong 
-- GitHub: https://github.com/Denis0242  
-
----
-
-## 💡 Final Note  
-
-This portfolio is built to reflect how product teams actually use data —  
-not just to analyze, but to **drive decisions, improve features, and grow products**.
+This portfolio reflects how product teams use data — not just to analyze, but to **drive decisions, improve user experience, and optimize product performance**
