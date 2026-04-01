@@ -2,11 +2,13 @@
 
 ### Product Data Analyst | 2+ yrs Product Analytics | 4+ yrs Healthcare Analytics
 
-📍 Oakland, CA  
-📧 Email    : vantjohnn@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/denis-agyapong  
-📊 Tableau: https://public.tableau.com/profile/denis.king  
-🐙 GitHub: https://github.com/Denis0242  
+📍 Oakland, CA                                  
+📧 [Email](vantjohnn@gmail.com) 
+
+🔗 [LinkedIn](https://linkedin.com/in/denis-agyapong)  
+📊 [Tableau Public](https://public.tableau.com/profile/denis.king)  
+🐙 [GitHub](https://github.com/Denis0242)
+  
 
 ---
 
