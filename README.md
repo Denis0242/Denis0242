@@ -1,6 +1,6 @@
 # Denis Agyapong
 
-### Product Data Analyst | 2+ yrs Product Analytics | 4+ yrs Healthcare Analytics
+### Product Data Analyst | 2+ yrs Product Analytics | 4+ yrs Healthcare & Insurance Analytics 
 
 📍 Oakland, CA                                  
 📧 [Email](vantjohnn@gmail.com) 
@@ -8,125 +8,136 @@
 🔗 [LinkedIn](https://linkedin.com/in/denis-agyapong)  
 📊 [Tableau Public](https://public.tableau.com/profile/denis.king)  
 🐙 [GitHub](https://github.com/Denis0242)
-  
 
 ---
 
 ## 🚀 About Me
 
-I build end-to-end product analytics solutions that help teams understand user behavior, optimize product performance, and make data-driven decisions.
+I am a Product Data Analyst with experience across **product analytics, healthcare systems, and insurance data environments**, focused on turning data into **actionable product decisions**.
 
+My work spans:
+- 📊 Product analytics (funnels, retention, experimentation)
+- 🏥 Healthcare analytics (patient flows, KPIs, outcomes)
+- 🛡️ Insurance analytics (risk, customer behavior, segmentation)
+- 🤖 Machine learning (churn prediction, risk modeling)
+- 🧪 Experimentation systems (A/B testing, decision frameworks)
 
-## 🧠 Portfolio Focus
-This portfolio simulates how product teams use data across the full lifecycle:
-User Acquisition → Activation → Engagement → Retention → Churn → Experimentation
-
-----
-
-My work focuses on:
-- 📉 Identifying funnel drop-offs and improving conversion  
-- 📊 Measuring feature adoption and user engagement  
-- 🧪 Designing and evaluating A/B experiments  
-- 🔁 Analyzing retention and churn drivers  
+I build **end-to-end analytical systems** — from exploration → dashboards → prediction → experimentation → decision-making.
 
 ---
 
-## 🧠 Core Product Analytics Skills
+# 🧠 Portfolio = ONE PRODUCT SYSTEM (Not Random Projects)
 
-- Funnel Analysis (Acquisition → Activation → Retention)  
-- Cohort & Retention Analysis  
-- A/B Testing & Experimentation  
-- KPI Design (DAU, MAU, Conversion, Retention)  
-- User Segmentation & Behavior Analysis  
+My projects are intentionally structured to reflect a **real-world data lifecycle**:
 
 ---
 
-## 📊 Featured Product Analytics Projects
+## 🔵 1. Exploration Layer  
+### 📊 Telecom User Behavior Analysis  
+➡️ Understand raw user behavior patterns and usage trends  
 
-### 🧪 A/B Testing & Experimentation  
-**A/B Testing Simulator (FastAPI + Statistics)**  
-🔗 https://github.com/Denis0242/AB_test_with_stats  
+- EDA on user sessions, traffic, and devices  
+- Identified usage distribution and anomalies  
+- Built interactive exploratory dashboards  
 
-- Built experimentation framework with hypothesis testing, confidence intervals, and power analysis  
-- Enabled go/no-go product decisions using statistical significance  
-- Simulates real-world product experimentation workflows  
-
----
-
-### 📈 Customer Product Journey Analytics  
-**Customer Product Analytics Dashboard (Streamlit + Plotly)**  
-🔗 https://github.com/Denis0242/customer-product-journey  
-
-- Analyzed user lifecycle from acquisition → activation → retention  
-- Identified funnel drop-offs and behavioral patterns across segments  
-- Built interactive dashboards to monitor engagement and conversion  
+👉 Foundation for all downstream analytics  
 
 ---
 
-### 🏥 CarePath Analytics (Healthcare)  
-**Patient Journey & Risk Analytics (Streamlit + ML)**  
-🔗 https://github.com/Denis0242/CareFlow  
+## 🟢 2. Reporting Layer  
+### 🏥 Healthcare KPI Dashboard (Kaiser)  
+➡️ Transform raw data into stakeholder-ready reporting  
 
-- Modeled patient care pathways to identify inefficiencies  
-- Applied predictive analytics to detect high-risk patients  
-- Built dashboards to track operational KPIs and care outcomes  
+- Built KPI dashboards for operational monitoring  
+- Tracked patient trends and healthcare metrics  
+- Enabled stakeholder decision-making through visualization  
 
----
-
-### 🔁 Churn & Retention Analytics  
-**Customer Churn Prediction (Streamlit + Machine Learning)**  
-🔗 https://github.com/Denis0242/Customer-Churn  
-
-- Built predictive models to identify users at high risk of churn  
-- Analyzed retention drivers and behavioral patterns  
-- Generated actionable insights to improve retention  
+👉 Moves from exploration → business reporting  
 
 ---
 
-### 📊 Healthcare KPI Dashboard  
-**Kaiser Healthcare Analytics Dashboard (Streamlit + BI Concepts)**  
-🔗 https://github.com/Denis0242/Kaiser_Dashboard  
+## 🟡 3. Product Analytics Layer  
+### 🚀 Customer Product Journey Analytics  
+➡️ Analyze user lifecycle and product performance  
 
-- Developed KPI dashboards for operational and quality metrics  
-- Performed EDA to uncover trends in healthcare performance  
-- Simulated real-world reporting workflows  
+- Funnel analysis (Login → Activation → Conversion)  
+- Cohort retention analysis  
+- Engagement tracking (DAU/MAU)  
 
----
-
-### 📡 Telecom Usage & Behavior Analytics  
-**Telecom Dashboard (Streamlit + EDA)**  
-🔗 https://github.com/Denis0242/Telecom_Analysis  
-
-- Analyzed user activity patterns and service usage  
-- Built dashboards to monitor engagement and anomalies  
-- Explored behavioral trends across telecom data  
+👉 Identifies **where product improvements are needed**
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🔴 4. Prediction Layer  
+### 🤖 Customer Churn Prediction  
+➡️ Predict future user behavior  
 
-**Languages & Analysis**  
-Python (Pandas, NumPy, Scikit-learn, Statsmodels), SQL  
+- Built ML models to predict churn  
+- Identified key drivers of user attrition  
+- Enabled targeted retention strategies  
 
-**Visualization & Dashboards**  
-Streamlit, Plotly, Tableau, Power BI  
-
-**Experimentation & Analytics**  
-A/B Testing, Hypothesis Testing, Funnel Analysis, Cohort Analysis  
-
-**Workflow & Tools**  
-Git, GitHub, FastAPI, Prefect  
+👉 Moves from insight → prediction  
 
 ---
 
-## 🎯 What I’m Targeting
+## 🟣 5. Decision System Layer  
+### 🧪 A/B Testing Experimentation Framework  
+➡️ Turn insights into product decisions  
 
-- Product Data Analyst  
-- Product Analyst  
-- Data Analyst (Product-focused)  
+- Designed end-to-end experimentation system  
+- Implemented hypothesis testing & power analysis  
+- Produced **Ship / No Ship decisions**  
+
+👉 Bridges analytics → product decision-making  
 
 ---
 
-## 💡 Final Note
+## 🟠 6. Advanced System Layer  
+### 🏥 CareFlow (Healthcare Product Analytics + ML)  
+➡️ Full product analytics + predictive system  
 
-This portfolio reflects how product teams use data — not just to analyze, but to **drive decisions, improve user experience, and optimize product performance**
+- Patient journey (funnel-style healthcare analytics)  
+- Predictive modeling for patient outcomes  
+- Care pathway optimization  
+
+👉 Combines **product analytics + ML + domain expertise**
+
+---
+
+# 🛠️ Tools & Technologies
+
+- **Languages:** Python, SQL  
+- **Analytics:** Pandas, NumPy, Statsmodels  
+- **Visualization:** Plotly, Matplotlib, Seaborn  
+- **Dashboards:** Streamlit  
+- **ML:** Scikit-learn  
+- **APIs:** FastAPI  
+- **Data:** EDA, Cohort Analysis, Funnel Analysis, A/B Testing  
+
+---
+
+# 📊 What I Bring
+
+- Strong **product thinking (metrics → decisions)**  
+- Experience across **healthcare + insurance domains**  
+- Ability to build **end-to-end analytical systems**  
+- Focus on **business impact, not just analysis**  
+
+---
+
+# 🎯 Current Focus
+
+- Product Data Analyst roles (entry–mid level)  
+- Experimentation & product analytics  
+- Data-driven product decision systems
+- Data Analytics(Product focus) 
+- Bussiness Analyst(Product focus)
+
+---
+
+# ⭐ Key Takeaway
+This portfolio is designed to show:
+
+ Not just analysis  
+ Not just dashboards  
+ But a **complete product data system from data → decision**
