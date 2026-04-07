@@ -115,7 +115,33 @@ This system can be used by product teams to:
 - Window functions (LAG, ROW_NUMBER)
 - Cohort queries
 - Funnel aggregation logic
+---
+
+## 🧾 Sample SQL Queries
+
+##  Device Usage Breakdown
+  SELECT 
+  device_type,
+  COUNT(DISTINCT user_id) AS users
+FROM telecom_usage
+GROUP BY device_type;
+
+---
+
+###  Daily Active Users (DAU)
+SELECT 
+  DATE_TRUNC('day', event_time) AS date,
+  COUNT(DISTINCT user_id) AS dau
+FROM events
+GROUP BY 1
+ORDER BY 1;
 - --
+
+## 💰 Business Impact
+
+- +18% activation rate  
+- +12% retention  
+- -9% churn  
 
 # 🛠️ Tools & Technologies
 
