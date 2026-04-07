@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I am a Product Data Analyst with experience across **product analytics, healthcare systems, and insurance data environments**, focused on turning data into **actionable product decisions**.
+I am a Product Data Analyst with experience across **product analytics, healthcare systems, and insurance data environments**, focused on turning data into **actionable product decisions**.I specialize in building product analytics systems that move from data → insight → prediction → decision.
 
 My work spans:
 - 📊 Product analytics (funnels, retention, experimentation)
@@ -103,6 +103,19 @@ My projects are intentionally structured to reflect a **real-world data lifecycl
 👉 Combines **product analytics + ML + domain expertise**
 
 ---
+## 🏢 Real-World Application
+This system can be used by product teams to:
+- Monitor funnel performance
+- Run experiments
+- Optimize user retention
+
+---
+
+## 🧠 SQL Used
+- Window functions (LAG, ROW_NUMBER)
+- Cohort queries
+- Funnel aggregation logic
+- --
 
 # 🛠️ Tools & Technologies
 
