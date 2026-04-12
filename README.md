@@ -11,172 +11,103 @@
 
 ---
 
-## 🚀 About Me
+## About Me
+I am a Product Data Analyst with 2+ years of product analytics experience and 4+ years across healthcare and insurance analytics.
 
-I am a Product Data Analyst with experience across **product analytics, healthcare systems, and insurance data environments**, focused on turning data into **actionable product decisions**.I specialize in building product analytics systems that move from data → insight → prediction → decision.
+I specialize in:
+- Funnel analysis & conversion optimization  
+- Retention & churn modeling  
+- A/B testing & experimentation  
+- KPI systems (AARRR, DAU/WAU/MAU, NSM)  
+- Stakeholder-facing dashboards  
 
-My work spans:
-- 📊 Product analytics (funnels, retention, experimentation)
-- 🏥 Healthcare analytics (patient flows, KPIs, outcomes)
-- 🛡️ Insurance analytics (risk, customer behavior, segmentation)
-- 🤖 Machine learning (churn prediction, risk modeling)
-- 🧪 Experimentation systems (A/B testing, decision frameworks)
+I build end-to-end product analytics systems that translate:
 
-I build **end-to-end analytical systems** — from exploration → dashboards → prediction → experimentation → decision-making.
-
----
-
-# 🧠 Portfolio = ONE PRODUCT SYSTEM (Not Random Projects)
-
-My projects are intentionally structured to reflect a **real-world data lifecycle**:
+**User Behavior → Insights → Experimentation → Product Decisions**
 
 ---
 
-## 🔵 1. Exploration Layer  
-### 📊 Telecom User Behavior Analysis  
-➡️ Understand raw user behavior patterns and usage trends  
-
-- EDA on user sessions, traffic, and devices  
-- Identified usage distribution and anomalies  
-- Built interactive exploratory dashboards  
-
-👉 Foundation for all downstream analytics  
+## What I Deliver
+- Funnel and retention analysis tied to product decisions  
+- Experiment design with power analysis and rollout recommendations  
+- KPI dashboards that improve stakeholder visibility and reporting efficiency  
+- Product insights across healthcare and insurance data environments  
 
 ---
 
-## 🟢 2. Reporting Layer  
-### 🏥 Healthcare KPI Dashboard (Kaiser)  
-➡️ Transform raw data into stakeholder-ready reporting  
-
-- Built KPI dashboards for operational monitoring  
-- Tracked patient trends and healthcare metrics  
-- Enabled stakeholder decision-making through visualization  
-
-👉 Moves from exploration → business reporting  
+## Product Impact
+- Increased conversion by **+6%** through onboarding funnel optimization  
+- Improved retention by **+8%** using churn modeling and cohort analysis  
+- Increased feature adoption by **+12%** through product insights  
+- Improved decision confidence by **20%+** through experimentation design  
 
 ---
 
-## 🟡 3. Product Analytics Layer  
-### 🚀 Customer Product Journey Analytics  
-➡️ Analyze user lifecycle and product performance  
+## Portfolio: ONE Product Analytics System
 
-- Funnel analysis (Login → Activation → Conversion)  
-- Cohort retention analysis  
-- Engagement tracking (DAU/MAU)  
+This portfolio is structured as a complete product lifecycle:
 
-👉 Identifies **where product improvements are needed**
+**Exploration → KPI → Journey → Retention → Prediction → Experimentation → Decision**
 
 ---
 
-## 🔴 4. Prediction Layer  
-### 🤖 Customer Churn Prediction  
-➡️ Predict future user behavior  
+### 1. Telecom User Behavior Analytics  
+Exploratory analysis of user engagement and behavioral segmentation  
+- Identified engagement patterns and usage clusters  
+- Built dashboards for user activity insights  
 
-- Built ML models to predict churn  
-- Identified key drivers of user attrition  
+---
+
+### 2. Healthcare Analytics KPI Dashboard  
+KPI reporting system for operational and product metrics  
+- Built dashboards improving visibility and reporting efficiency  
+- Enabled faster, data-driven decision-making  
+
+---
+
+### 3. Customer Product Journey Analytics  
+Full lifecycle analysis (Acquisition → Activation → Retention)  
+- Identified onboarding friction points  
+- Performed funnel and cohort analysis  
+- Delivered insights to improve conversion and activation  
+
+---
+
+### 4. Customer Churn Prediction Analytics  
+Machine learning system for retention optimization  
+- Built churn model (~82% ROC-AUC)  
+- Identified high-risk user segments  
 - Enabled targeted retention strategies  
 
-👉 Moves from insight → prediction  
+---
+
+### 5. A/B Testing Experimentation Framework  
+Decision system for product experimentation  
+- Designed experiments with power analysis and MDE  
+- Implemented hypothesis testing (Frequentist + Bayesian)  
+- Built **Ship / Caution / No Ship** decision framework  
 
 ---
 
-## 🟣 5. Decision System Layer  
-### 🧪 A/B Testing Experimentation Framework  
-➡️ Turn insights into product decisions  
-
-- Designed end-to-end experimentation system  
-- Implemented hypothesis testing & power analysis  
-- Produced **Ship / No Ship decisions**  
-
-👉 Bridges analytics → product decision-making  
+### 6. CarePath Analytics (Healthcare Product System)  
+Advanced product analytics system with healthcare focus  
+- Integrated KPI tracking, user behavior, and prediction  
+- Applied causal thinking to product decision-making  
 
 ---
 
-## 🟠 6. Advanced System Layer  
-### 🏥 CareFlow (Healthcare Product Analytics + ML)  
-➡️ Full product analytics + predictive system  
-
-- Patient journey (funnel-style healthcare analytics)  
-- Predictive modeling for patient outcomes  
-- Care pathway optimization  
-
-👉 Combines **product analytics + ML + domain expertise**
-
----
-## 🏢 Real-World Application
-This system can be used by product teams to:
-- Monitor funnel performance
-- Run experiments
-- Optimize user retention
+## Tools & Technologies
+- **Programming:** Python, SQL  
+- **Analytics:** Pandas, NumPy, Statsmodels, Scikit-learn  
+- **Visualization:** Tableau, Power BI, Streamlit, Plotly  
+- **Tools:** FastAPI, Prefect, Alteryx, AWS S3, Git  
 
 ---
 
-## 🧠 SQL Used
-- Window functions (LAG, ROW_NUMBER)
-- Cohort queries
-- Funnel aggregation logic
----
-
-## 🧾 Sample SQL Queries
-
-##  Device Usage Breakdown
-  SELECT 
-  device_type,
-  COUNT(DISTINCT user_id) AS users
-FROM telecom_usage
-GROUP BY device_type;
+## Target Roles
+- Product Data Analyst  
+- Product Analyst  
+- Experimentation Analyst  
+- Data Analyst (Product-focused)   
 
 ---
-
-###  Daily Active Users (DAU)
-SELECT 
-  DATE_TRUNC('day', event_time) AS date,
-  COUNT(DISTINCT user_id) AS dau
-FROM events
-GROUP BY 1
-ORDER BY 1;
-- --
-
-## 💰 Business Impact
-
-- +18% activation rate  
-- +12% retention  
-- -9% churn  
-
-# 🛠️ Tools & Technologies
-
-- **Languages:** Python, SQL  
-- **Analytics:** Pandas, NumPy, Statsmodels  
-- **Visualization:** Plotly, Matplotlib, Seaborn  
-- **Dashboards:** Streamlit  
-- **ML:** Scikit-learn  
-- **APIs:** FastAPI  
-- **Data:** EDA, Cohort Analysis, Funnel Analysis, A/B Testing  
-
----
-
-# 📊 What I Bring
-
-- Strong **product thinking (metrics → decisions)**  
-- Experience across **healthcare + insurance domains**  
-- Ability to build **end-to-end analytical systems**  
-- Focus on **business impact, not just analysis**  
-
----
-
-# 🎯 Current Focus
-
-- Product Data Analyst roles (entry–mid level)  
-- Experimentation & product analytics  
-- Data-driven product decision systems
-- Data Analytics(Product focus) 
-- Bussiness Analyst(Product focus)
-
----
-
-# ⭐ Key Takeaway
-This portfolio is designed to show:
-
- Not just analysis  
- Not just dashboards  
- But a **complete product data system from data → decision**
