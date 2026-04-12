@@ -87,6 +87,10 @@ Advanced analytics system combining KPI tracking, prediction, and decision suppo
 
 ---
 
+Across these projects, I use SQL for funnel aggregation, cohort analysis, KPI reporting, retention tracking, and experiment measurement.
+
+---
+
 ## Skills & Tools
 
 **Product Analytics**  
@@ -118,5 +122,4 @@ Scikit-learn · Statsmodels
 
 ## Key Takeaway
 
-This portfolio demonstrates more than isolated dashboards or analyses.  
-It shows a complete product analytics system that connects data → insights → experimentation → product decisions.
+This portfolio demonstrates more than isolated dashboards or analyses. It shows a connected product analytics system that moves from exploration and KPI reporting to journey analysis, retention modeling, experimentation, and product decision-making.
