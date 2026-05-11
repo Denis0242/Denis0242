@@ -13,6 +13,7 @@
 
 Data Analyst with 4+ years of experience across healthcare, insurance, and product-focused analytics environments specializing in:
 
+- Data Analytics
 - Product Analytics
 - Funnel Analysis
 - Retention & Churn Analytics
