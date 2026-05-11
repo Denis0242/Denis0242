@@ -1,6 +1,6 @@
-# Denis Agyapong
+# Hi, Denis 👋
 
-**Product Data Analyst | 2+ yrs Product Analytics | 4+ yrs Healthcare & Insurance Analytics**
+**Data Analyst (Healthcare & Tech) | Product Analytics | Experimentation | Tableau | SQL | Python**
 
 📍 Oakland, CA                                  
 📧 [Email](vantjohnn@gmail.com) 
@@ -10,116 +10,244 @@
 🐙 [GitHub](https://github.com/Denis0242)
 
 ---
- 
-## About Me
 
-Product Data Analyst with 2+ years of product analytics experience and 4+ years in healthcare and insurance analytics, specializing in funnel optimization, A/B testing, retention strategy, and KPI systems (AARRR, DAU/WAU/MAU, NSM).
+Data Analyst with 4+ years of experience across healthcare, insurance, and product-focused analytics environments specializing in:
 
-Known for building end-to-end product analytics systems that translate:
-user behavior → insights → experimentation → product decisions
+- Product Analytics
+- Funnel Analysis
+- Retention & Churn Analytics
+- Experimentation & A/B Testing
+- KPI & Executive Dashboarding
+- Customer Journey Analytics
+- Healthcare Analytics
 
----
-
-## Portfolio: ONE Product Analytics System (Not Random Projects)
-
-This portfolio demonstrates a connected analytics lifecycle:
-
-**Exploration → KPI Reporting → Journey Analytics → Retention & Prediction → Experimentation → Product Decision**
+I build modern analytics systems that transform operational, customer, and product data into actionable business insights supporting decision-making, retention improvement, and product optimization.
 
 ---
 
-## Business Impact
+# 🚀 Featured Analytics Projects
 
-- +6% conversion through onboarding funnel optimization  
-- +8% retention through churn modeling and cohort analysis  
-- +12% feature adoption through product insights and stakeholder alignment  
-- 20%+ improvement in experiment decision confidence through A/B testing  
+## 🏥 Patient CareFlow Analytics
+Healthcare journey analytics platform tracking patient progression, engagement, operational KPIs, and treatment outcomes.
 
----
+### Key Focus
+- Patient journey analytics
+- Funnel drop-off analysis
+- Operational KPI monitoring
+- Treatment progression analytics
+- Healthcare dashboarding
 
-## Portfolio Breakdown
+### Tools
+`Tableau` `SQL` `Python` `Healthcare Analytics`
 
-### 1. Exploration Layer  
-**Telecom User Behavior Analytics**  
-Exploratory analysis of user engagement, segmentation, and usage patterns  
-
-🔗 https://github.com/Denis0242/Telecom_Analysis  
-
----
-
-### 2. KPI Reporting Layer  
-**Healthcare Analytics KPI Dashboard**  
-KPI tracking system for operational and product performance  
-
-🔗 https://github.com/Denis0242/Kaiser_Dashboard  
+🔗 Repo: [Patient-Careflow](https://github.com/Denis0242/Patient-Careflow)
 
 ---
 
-### 3. Journey Analytics Layer  
-**Customer Product Journey Analytics**  
-Full lifecycle funnel analysis (Acquisition → Activation → Retention)  
+## 🧪 Experimentation Readout Dashboard
+Experimentation analytics dashboard evaluating conversion lift, retention impact, engagement trends, and A/B test performance.
 
-🔗 https://github.com/Denis0242/customer-product-journey  
+### Key Focus
+- Experiment analysis
+- Variant vs control performance
+- KPI lift analysis
+- Product experimentation
+- Statistical reporting
 
----
+### Tools
+`Python` `Statsmodels` `SQL` `Tableau`
 
-### 4. Retention & Prediction Layer  
-**Customer Churn Prediction Analytics**  
-Churn modeling system to identify high-risk users and retention opportunities  
-
-🔗 https://github.com/Denis0242/Customer-Churn  
-
----
-
-### 5. Experimentation Layer  
-**A/B Testing Experimentation Framework**  
-End-to-end experimentation system with power analysis, MDE, and decision logic  
-
-🔗 https://github.com/Denis0242/AB_test_with_stats  
+🔗 Repo: [Experimentation-Readout](https://github.com/Denis0242)
 
 ---
 
-### 6. Product Decision System  
-**CareFlow Analytics (Healthcare Product System)**  
-Advanced analytics system combining KPI tracking, prediction, and decision support  
+## 📈 Customer Journey Analytics
+Product analytics dashboard analyzing user funnels, customer behavior, conversion trends, and engagement patterns.
 
-🔗 https://github.com/Denis0242/CareFlow  
+### Key Focus
+- Funnel analytics
+- Conversion optimization
+- User behavior analytics
+- Customer lifecycle analysis
+- Journey mapping
 
----
+### Tools
+`SQL` `Tableau` `Python`
 
-Across these projects, I use SQL for funnel aggregation, cohort analysis, KPI reporting, retention tracking, and experiment measurement.
-
----
-
-## Skills & Tools
-
-**Product Analytics**  
-A/B Testing · Funnel Analysis · Cohort Analysis · Retention · Churn  
-AARRR · DAU/WAU/MAU · NSM · LTV  
-
-**Programming**  
-Python · SQL  
-
-**Visualization**  
-Streamlit · Plotly · Tableau · Power BI  
-
-**Tools**  
-FastAPI · Prefect · Git · Alteryx · AWS S3  
-
-**ML / Statistics**  
-Scikit-learn · Statsmodels  
+🔗 Repo: [Customer-User-Journey](https://github.com/Denis0242)
 
 ---
 
-## Current Focus
+## 🔄 Churn & Retention Analytics
+Retention analytics platform identifying churn drivers, engagement risks, and customer retention opportunities.
 
-- Product Data Analyst roles  
-- Product analytics and experimentation  
-- Retention, funnel optimization, and KPI strategy  
-- Healthcare tech and insurance analytics  
+### Key Focus
+- Churn prediction
+- Retention analysis
+- Cohort analytics
+- Customer segmentation
+- Engagement monitoring
+
+### Tools
+`Python` `SQL` `Tableau` `Scikit-learn`
+
+🔗 Repo: [Churn-Retention](https://github.com/Denis0242)
 
 ---
 
-## Key Takeaway
+## 🎯 North Star Metric (NSM) Dashboard
+Executive product health dashboard tracking activation, conversion, retention, churn, and engagement KPIs.
+
+### Key Focus
+- KPI engineering
+- Product health monitoring
+- Executive reporting
+- Product growth analytics
+- Engagement metrics
+
+### Tools
+`Tableau` `SQL` `Python`
+
+🔗 Repo: [North-Star-Metric](https://github.com/Denis0242)
+
+---
+
+## 💙 Patient Engagement Dashboard
+Healthcare engagement analytics dashboard evaluating patient activity, operational efficiency, and treatment engagement trends.
+
+### Key Focus
+- Patient engagement analytics
+- Healthcare KPIs
+- Cohort retention
+- Operational monitoring
+- Digital health reporting
+
+### Tools
+`Tableau` `SQL` `Power BI`
+
+🔗 Repo: [Patient-Engagement](https://github.com/Denis0242)
+
+---
+
+# 📊 Product Analytics Skills
+
+- Funnel Analysis
+- Retention & Churn Analytics
+- Cohort Analysis
+- KPI Monitoring
+- Product Health Metrics
+- Customer Journey Analytics
+- A/B Testing Support
+- Conversion Analysis
+- Segmentation Analysis
+- Dashboard Storytelling
+
+---
+
+# 🧠 Experimentation & Analytics
+
+- A/B Testing Analysis
+- KPI Lift Evaluation
+- Statistical Comparisons
+- Engagement Trend Analysis
+- Experiment Readouts
+- Product Performance Monitoring
+- Cohort Retention Tracking
+
+---
+
+# 🛠️ Tech Stack
+
+## Analytics & BI
+![SQL](https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboarding-orange?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-Visualization-yellow?style=for-the-badge)
+
+## Programming & Data
+![Python](https://img.shields.io/badge/Python-Data%20Analytics-green?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-EDA-lightgrey?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-ML-red?style=for-the-badge)
+
+## Data Platforms & Workflow
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge)
+![Snowflake](https://img.shields.io/badge/Snowflake-DataWarehouse-blue?style=for-the-badge)
+![Redshift](https://img.shields.io/badge/Redshift-Analytics-darkred?style=for-the-badge)
+![Prefect](https://img.shields.io/badge/Prefect-Workflow-purple?style=for-the-badge)
+
+## Apps & Deployment
+![Streamlit](https://img.shields.io/badge/Streamlit-Apps-red?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-VersionControl-black?style=for-the-badge)
+
+---
+
+# 📌 KPI & Metrics Focus
+
+- Activation Rate
+- Conversion Rate
+- Funnel Drop-off %
+- D1 / D7 / D30 Retention
+- Customer Churn
+- Engagement Score
+- Patient Retention
+- Product Health Metrics
+- Executive KPI Monitoring
+
+---
+
+# 🧾 SQL Showcase
+
+### SQL Techniques Used Across Projects
+
+- CTEs
+- Window Functions
+- Joins
+- Aggregations
+- Cohort Queries
+- Funnel Queries
+- Retention Analysis
+- KPI Engineering
+
+---
+
+# 📷 Dashboard Showcase
+
+### Tableau Dashboards
+- Product Funnel Analytics
+- Churn & Retention Dashboard
+- Experimentation Readout Dashboard
+- Patient CareFlow Dashboard
+- Executive KPI Dashboard
+- Customer Journey Analytics
+
+---
+
+# 🏆 Certifications
+- Tableau Desktop Specialit
+- Generative AI
+- Deep Learning
+- Data Science — Digicrome
+
+---
+
+# 📈 GitHub Stats
+
+![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis0242&show_icons=true)
+
+---
+
+# 🎯 Career Focus
+
+Focused on building analytics systems that combine:
+
+- Data Analytics 
+- Product Analytics
+- Healthcare Analytics
+- Experimentation
+- KPI Monitoring
+- Retention Analytics
+- Executive Decision Support
+
+to drive measurable business and operational impact.
+
 
 This portfolio demonstrates more than isolated dashboards or analyses. It shows a connected product analytics system that moves from exploration and KPI reporting to journey analysis, retention modeling, experimentation, and product decision-making.
