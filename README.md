@@ -43,6 +43,7 @@ Healthcare journey analytics platform tracking patient progression, engagement, 
 `Tableau` `SQL` `Python` `Healthcare Analytics`
 
 🔗 Repo: [Patient-Careflow](https://github.com/Denis0242/Patient-Careflow)
+
 **Live App:** https://patient-careflow-yemkrdq4v4juckh6pucppe.streamlit.app
 
 ---
@@ -61,6 +62,7 @@ Experimentation analytics dashboard evaluating conversion lift, retention impact
 `Python` `Statsmodels` `SQL` `Tableau`
 
 🔗 Repo: [Experimentation-Readout](https://github.com/Denis0242)
+
 **Live App:** https://experimentation-readout-ylxtwuapppudogjpvpncs6k.streamlit.app
 
 ---
@@ -79,6 +81,7 @@ Product analytics dashboard analyzing user funnels, customer behavior, conversio
 `SQL` `Tableau` `Python`
 
 🔗 Repo: [Customer-User-Journey](https://github.com/Denis0242)
+
 **Live App:** https://customer-user-journey-angajdddvhacljvmgl28x5.streamlit.app
 
 ---
@@ -97,6 +100,7 @@ Retention analytics platform identifying churn drivers, engagement risks, and cu
 `Python` `SQL` `Tableau` `Scikit-learn`
 
 🔗 Repo: [Churn-Retention](https://github.com/Denis0242)
+
 **Live App:** https://churn-retention-cuagwu7swbhet5jpkpkymu.streamlit.app
 
 ---
@@ -115,6 +119,7 @@ Executive product health dashboard tracking activation, conversion, retention, c
 `Tableau` `SQL` `Python`
 
 🔗 Repo: [North-Star-Metric](https://github.com/Denis0242)
+
 **Live App:** https://north-star-metric-9i3ywkxnbkcqzqqyqqqyyo.streamlit.app
 
 ---
@@ -133,6 +138,7 @@ Healthcare engagement analytics dashboard evaluating patient activity, operation
 `Tableau` `SQL` `Power BI`
 
 🔗 Repo: [Patient-Engagement](https://github.com/Denis0242)
+
 **Live App:** https://patient-engagement-edwl7deyvnvbtlq8gns5mt.streamlit.app
 
 ---
@@ -234,12 +240,6 @@ Healthcare engagement analytics dashboard evaluating patient activity, operation
 - Generative AI
 - Deep Learning
 - Data Science — Digicrome
-
----
-
-# 📈 GitHub Stats
-
-![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis0242&show_icons=true)
 
 ---
 
