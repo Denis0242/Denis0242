@@ -38,41 +38,22 @@ Healthcare journey analytics platform tracking patient progression, engagement, 
 
 ---
 
-## 🧪 Experimentation Readout Dashboard
-Experimentation analytics dashboard evaluating conversion lift, retention impact, engagement trends, and A/B test performance.
+## 💙 Patient Engagement Dashboard
+Healthcare engagement analytics dashboard evaluating patient activity, operational efficiency, and treatment engagement trends.
 
 ### Key Focus
-- KPI comparison analysis
-- Customer engagement trends
-- Retention monitoring
-- Behavioral analysis
-- Experiment reporting support
+- Patient engagement analytics
+- Healthcare KPIs
+- Cohort retention
+- Operational monitoring
+- Digital health reporting
 
 ### Tools
-`Python` `Statsmodels` `SQL` `Tableau`
+`Tableau` `SQL` `Power BI`
 
-🔗 Repo: [Experimentation-Readout](https://github.com/Denis0242)
+🔗 Repo: [Patient-Engagement](https://github.com/Denis0242)
 
-**Live App:** https://experimentation-readout-ylxtwuapppudogjpvpncs6k.streamlit.app
-
----
-
-## 📈 Customer Journey Analytics
-Product analytics dashboard analyzing user funnels, customer behavior, conversion trends, and engagement patterns.
-
-### Key Focus
-- Funnel analytics
-- Conversion optimization
-- User behavior analytics
-- Customer lifecycle analysis
-- Journey mapping
-
-### Tools
-`SQL` `Tableau` `Python`
-
-🔗 Repo: [Customer-User-Journey](https://github.com/Denis0242)
-
-**Live App:** https://customer-user-journey-angajdddvhacljvmgl28x5.streamlit.app
+**Live App:** https://patient-engagement-edwl7deyvnvbtlq8gns5mt.streamlit.app
 
 ---
 
@@ -95,6 +76,25 @@ Retention analytics platform identifying churn drivers, engagement risks, and cu
 
 ---
 
+## 📈 Customer Journey Analytics
+Product analytics dashboard analyzing user funnels, customer behavior, conversion trends, and engagement patterns.
+
+### Key Focus
+- Funnel analytics
+- Conversion optimization
+- User behavior analytics
+- Customer lifecycle analysis
+- Journey mapping
+
+### Tools
+`SQL` `Tableau` `Python`
+
+🔗 Repo: [Customer-User-Journey](https://github.com/Denis0242)
+
+**Live App:** https://customer-user-journey-angajdddvhacljvmgl28x5.streamlit.app
+
+---
+
 ## 🎯 North Star Metric (NSM) Dashboard
 Executive product health dashboard tracking activation, conversion, retention, churn, and engagement KPIs.
 
@@ -114,22 +114,22 @@ Executive product health dashboard tracking activation, conversion, retention, c
 
 ---
 
-## 💙 Patient Engagement Dashboard
-Healthcare engagement analytics dashboard evaluating patient activity, operational efficiency, and treatment engagement trends.
+## 🧪 Experimentation Readout Dashboard
+Experimentation analytics dashboard evaluating conversion lift, retention impact, engagement trends, and A/B test performance.
 
 ### Key Focus
-- Patient engagement analytics
-- Healthcare KPIs
-- Cohort retention
-- Operational monitoring
-- Digital health reporting
+- KPI comparison analysis
+- Customer engagement trends
+- Retention monitoring
+- Behavioral analysis
+- Experiment reporting support
 
 ### Tools
-`Tableau` `SQL` `Power BI`
+`Python` `Statsmodels` `SQL` `Tableau`
 
-🔗 Repo: [Patient-Engagement](https://github.com/Denis0242)
+🔗 Repo: [Experimentation-Readout](https://github.com/Denis0242)
 
-**Live App:** https://patient-engagement-edwl7deyvnvbtlq8gns5mt.streamlit.app
+**Live App:** https://experimentation-readout-ylxtwuapppudogjpvpncs6k.streamlit.app
 
 ---
 
