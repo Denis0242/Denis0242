@@ -1,6 +1,6 @@
 # Hi, Denis 👋
 
-**Data Analyst (Healthcare & Tech) | Product Analytics | Experimentation | Tableau | SQL | Python**
+**Data Analyst (Healthcare & Tech) | SQL • Tableau • KPI Reporting | Product Analytics (Funnels, Retention, A/B Testing)**
 
 📍 Oakland, CA                                  
 📧 [Email](vantjohnn@gmail.com) 
@@ -11,19 +11,9 @@
 
 ---
 
-Data Analyst with 4+ years of experience across healthcare, insurance, and product-focused analytics environments specializing in:
+Data Analyst with 4+ years of experience across **healthcare, insurance, and operational analytics environments**, specializing in **SQL-based analysis, KPI reporting, dashboard development, customer analytics, patient engagement, retention analysis, and operational reporting**.
 
-- Data Analytics
-- KPI Reporting
-- Product Analytics
-- Funnel Analysis
-- Retention & Churn Analytics
-- Experimentation & A/B Testing
-- KPI & Executive Dashboarding
-- Customer Journey Analytics
-- Healthcare Analytics
-
-I build modern analytics systems that transform operational, customer, and product data into actionable business insights supporting decision-making, retention improvement, and product optimization.
+I build analytics solutions that transform **customer, patient, and operational data into actionable business insights** using **SQL, Tableau, Power BI, Python, and Alteryx** to improve KPI visibility, reporting efficiency, retention monitoring, and data-driven decision-making.
 
 ---
 
@@ -52,11 +42,11 @@ Healthcare journey analytics platform tracking patient progression, engagement, 
 Experimentation analytics dashboard evaluating conversion lift, retention impact, engagement trends, and A/B test performance.
 
 ### Key Focus
-- Experiment analysis
-- Variant vs control performance
-- KPI lift analysis
-- Product experimentation
-- Statistical reporting
+- KPI comparison analysis
+- Customer engagement trends
+- Retention monitoring
+- Behavioral analysis
+- Experiment reporting support
 
 ### Tools
 `Python` `Statsmodels` `SQL` `Tableau`
@@ -90,7 +80,7 @@ Product analytics dashboard analyzing user funnels, customer behavior, conversio
 Retention analytics platform identifying churn drivers, engagement risks, and customer retention opportunities.
 
 ### Key Focus
-- Churn prediction
+- Churn analysis
 - Retention analysis
 - Cohort analytics
 - Customer segmentation
@@ -143,7 +133,7 @@ Healthcare engagement analytics dashboard evaluating patient activity, operation
 
 ---
 
-# 📊 Product Analytics Skills
+# 📊 Analytics & Product Analytics Skills
 
 - Funnel Analysis
 - Retention & Churn Analytics
@@ -180,13 +170,12 @@ Healthcare engagement analytics dashboard evaluating patient activity, operation
 ## Programming & Data
 ![Python](https://img.shields.io/badge/Python-Data%20Analytics-green?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-lightgrey?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-ML-red?style=for-the-badge)
 
 ## Data Platforms & Workflow
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge)
 ![Snowflake](https://img.shields.io/badge/Snowflake-DataWarehouse-blue?style=for-the-badge)
 ![Redshift](https://img.shields.io/badge/Redshift-Analytics-darkred?style=for-the-badge)
-![Prefect](https://img.shields.io/badge/Prefect-Workflow-purple?style=for-the-badge)
+![Alteryx](https://img.shields.io/badge/Alteryx-Workflow%20Automation-orange?style=for-the-badge)
 
 ## Apps & Deployment
 ![Streamlit](https://img.shields.io/badge/Streamlit-Apps-red?style=for-the-badge)
@@ -226,19 +215,18 @@ Healthcare engagement analytics dashboard evaluating patient activity, operation
 # 📷 Dashboard Showcase
 
 ### Tableau Dashboards
-- Product Funnel Analytics
-- Churn & Retention Dashboard
-- Experimentation Readout Dashboard
 - Patient CareFlow Dashboard
-- Executive KPI Dashboard
-- Customer Journey Analytics
+- Patient Engagement Dashboard
+- Customer Churn & Retention Dashboard
+- Customer Journey Analytics Dashboard
+- North Star Metric (NSM) Dashboard
+- Experimentation Readout Dashboard
 
 ---
 
 # 🏆 Certifications
-- Tableau Desktop Specialit
+- Tableau Desktop Specialist
 - Generative AI
-- Deep Learning
 - Data Science — Digicrome
 
 ---
@@ -258,4 +246,4 @@ Focused on building analytics systems that combine:
 to drive measurable business and operational impact.
 
 
-This portfolio demonstrates more than isolated dashboards or analyses. It shows a connected product analytics system that moves from exploration and KPI reporting to journey analysis, retention modeling, experimentation, and product decision-making.
+This portfolio demonstrates an analytics ecosystem connecting **healthcare, customer, and operational analytics** through KPI reporting, customer journey analysis, retention monitoring, healthcare dashboards, and data-driven decision support.
