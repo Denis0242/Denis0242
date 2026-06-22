@@ -1,6 +1,7 @@
 # Hi, Denis 👋
 
-### Data Analyst (Healthcare & Tech) | Decision Support Analyst | Tableau • SQL • Reporting
+### Data Analyst | Healthcare Analytics & Decision Support 
+• SQL • Tableau • KPI Reporting • Executive Dashboards
 
 📍 Oakland, CA
 
@@ -18,7 +19,19 @@ Data Analyst with 4+ years of experience across healthcare, insurance, and opera
 
 Experienced in transforming patient, operational, and business data into actionable insights through Tableau, SQL, Power BI, Python, and Alteryx. Skilled in executive reporting, performance monitoring, operational analytics, healthcare KPI measurement, and business intelligence solutions that support data-driven decision-making.
 
-Additional experience includes customer analytics, retention analysis, customer journey analytics, and experimentation reporting.
+Experience also includes customer analytics, retention analysis, customer journey analytics, and performance reporting across healthcare, insurance, and operational environments.
+
+---
+
+# 📌 Impact Snapshot
+
+| Portfolio Highlights | |
+
+| 📊 Analytics Projects | 6 End-to-End Portfolio Projects |
+| 🚀 Streamlit Apps | 6 Interactive Applications |
+| 🏥 Analytics Domains | Healthcare, Insurance & Customer Analytics |
+| 📈 Reporting Focus | Executive KPI Dashboards & Decision Support |
+| 🛠️ Core Tools | SQL • Tableau • Python • Power BI • Excel |
 
 ---
 
@@ -33,6 +46,20 @@ My primary focus is building reporting and analytics solutions that help organiz
 * Identify operational bottlenecks
 * Optimize reporting processes
 * Deliver business intelligence insights
+  
+---
+  # 🎯 Decision Support Use Cases
+
+This portfolio demonstrates how analytics can support:
+
+- Executive KPI Monitoring
+- Hospital Operations Management
+- Capacity Planning
+- Performance Reporting
+- Operational Risk Identification
+- Resource Allocation Decisions
+- Patient Outcome Monitoring
+- Business Intelligence Reporting
 
 ---
 
@@ -251,7 +278,7 @@ Live App:[Streamlit App](https://churn-retention-cuagwu7swbhet5jpkpkymu.streamli
 
 # 🎯 Career Focus
 
-Focused on delivering healthcare, operational, and business intelligence solutions through SQL, Tableau, KPI reporting, executive dashboards, and decision support analytics.
+Focused on delivering healthcare analytics, operational reporting, KPI monitoring, and decision-support solutions that enable data-driven decision-making.
 
 Additional interests include customer analytics, retention analysis, and user journey analytics.
 
