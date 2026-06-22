@@ -55,9 +55,9 @@ Executive healthcare analytics dashboard designed to monitor patient flow, capac
 
 `Tableau` `SQL` `Healthcare Analytics` `Business Intelligence`
 
-🔗 Repo: https://github.com/Denis0242/Hospital-Operations-Analytics
+🔗 Repo:[Healthcare Operations Analytics](https://github.com/Denis0242/Hospital-Operations-Analytics)
 
-Live App: https://hospital-operations-analytics-lzdpjtyc7snhnesnyhtgqx.streamlit.app
+Live App:[Streamlit App](https://hospital-operations-analytics-lzdpjtyc7snhnesnyhtgqx.streamlit.app)
 
 ---
 
@@ -77,9 +77,9 @@ Healthcare journey analytics platform tracking patient progression, engagement, 
 
 `Tableau` `SQL` `Python`
 
-🔗 Repo: https://github.com/Denis0242/Patient-Careflow
+🔗 Repo: [ Patient CareFlow Analytics](https://github.com/Denis0242/Patient-Careflow)
 
-Live App : https://patient-careflow-yemkrdq4v4juckh6pucppe.streamlit.app
+Live App :[Streamlit App](https://patient-careflow-yemkrdq4v4juckh6pucppe.streamlit.app)
 
 ---
 
@@ -99,9 +99,9 @@ Healthcare engagement analytics dashboard evaluating patient activity, operation
 
 `Tableau` `SQL` `Power BI`
 
-🔗 Repo: https://github.com/Denis0242/Patient-Engagement
+🔗 Repo:[Patient Engagement Dashboard](https://github.com/Denis0242/Patient-Engagement)
 
-Live App : https://patient-engagement-edwl7deyvnvbtlq8gns5mt.streamlit.app
+Live App :[Streamlit App](https://patient-engagement-edwl7deyvnvbtlq8gns5mt.streamlit.app)
 
 ---
 
@@ -121,9 +121,9 @@ Insurance analytics dashboard analyzing claims performance, risk exposure, cost 
 
 `Tableau` `SQL` `Python`
 
-🔗Repo : https://github.com/Denis0242/Claims-Cost-Analysis
+🔗Repo : [Claims Cost Risk Analytics](https://github.com/Denis0242/Claims-Cost-Analysis)
 
-Live App:https://claims-cost-analysis-wjf2agdgvkqfy6z9akcswh.streamlit.app
+Live App:[Streamli App](https://claims-cost-analysis-wjf2agdgvkqfy6z9akcswh.streamlit.app)
 
 ---
 
@@ -143,9 +143,9 @@ Analytics dashboard analyzing user behavior, customer journeys, conversion trend
 
 `SQL` `Tableau` `Python`
 
-🔗Repo : https://github.com/Denis0242/Customer-User-Journey
+🔗Repo :[Customer Journey Analytics](https://github.com/Denis0242/Customer-User-Journey)
 
-Live App: https://customer-user-journey-angajdddvhacljvmgl28x5.streamlit.app
+Live App:[Streamlit App](https://customer-user-journey-angajdddvhacljvmgl28x5.streamlit.app)
 
 ---
 
@@ -165,9 +165,9 @@ Retention analytics platform identifying churn drivers, engagement risks, and cu
 
 `Python` `SQL` `Tableau`
 
-🔗Repo : https://github.com/Denis0242/Churn-Retention
+🔗Repo :[Churn & Retention Analytics](https://github.com/Denis0242/Churn-Retention)
 
-Live App : https://churn-retention-cuagwu7swbhet5jpkpkymu.streamlit.app
+Live App :[Streamlit App](https://churn-retention-cuagwu7swbhet5jpkpkymu.streamlit.app)
 
 ---
 
