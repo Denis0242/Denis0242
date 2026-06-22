@@ -197,7 +197,7 @@ Live App : https://churn-retention-cuagwu7swbhet5jpkpkymu.streamlit.app
 ![GitHub](https://img.shields.io/badge/GitHub-VersionControl-black?style=for-the-badge)
 
 
-# 🗄️ Data Modeling 
+## 🗄️ Data Modeling 
 
 * Data Modeling
 * Relational Data Structures
