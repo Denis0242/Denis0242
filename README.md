@@ -1,9 +1,10 @@
 # Hi, Denis 👋
 
-**Data Analyst (Healthcare & Tech) | SQL • Tableau • KPI Reporting | Product Analytics (Funnels, Retention, A/B Testing)**
+### Data Analyst (Healthcare & Tech) | Decision Support Analyst | Tableau • SQL • Reporting
 
-📍 Oakland, CA                                  
-📧 [Email](vantjohnn@gmail.com) 
+📍 Oakland, CA
+
+📧 [vantjohnn@gmail.com](mailto:vantjohnn@gmail.com)
 
 🔗 [LinkedIn](https://linkedin.com/in/denis-agyapong)  
 📊 [Tableau Public](https://public.tableau.com/profile/denis.king)  
@@ -11,165 +12,161 @@
 
 ---
 
-Data Analyst with 4+ years of experience across **healthcare, insurance, and operational analytics environments**, specializing in **SQL-based analysis, KPI reporting, dashboard development, customer analytics, patient engagement, retention analysis, and operational reporting**.
+## About Me
 
-I build analytics solutions that transform **customer, patient, and operational data into actionable business insights** using **SQL, Tableau, Power BI, Python, and Alteryx** to improve KPI visibility, reporting efficiency, retention monitoring, and data-driven decision-making.
+Data Analyst with 4+ years of experience across healthcare, insurance, and operational analytics environments, specializing in SQL analysis, KPI reporting, dashboard development, healthcare operations analytics, and decision support reporting.
+
+Experienced in transforming patient, operational, and business data into actionable insights through Tableau, SQL, Power BI, Python, and Alteryx. Skilled in executive reporting, performance monitoring, operational analytics, healthcare KPI measurement, and business intelligence solutions that support data-driven decision-making.
+
+Additional experience includes customer analytics, retention analysis, customer journey analytics, and experimentation reporting.
+
+---
+
+# 🏥 Healthcare & Decision Support Analytics
+
+My primary focus is building reporting and analytics solutions that help organizations:
+
+* Monitor operational performance
+* Track KPI trends
+* Support executive decision-making
+* Improve patient and customer outcomes
+* Identify operational bottlenecks
+* Optimize reporting processes
+* Deliver business intelligence insights
 
 ---
 
 # 🚀 Featured Analytics Projects
 
+## 🏥 Healthcare Operations Analytics
+
+Executive healthcare analytics dashboard designed to monitor patient flow, capacity utilization, readmissions, treatment outcomes, and operational bottlenecks across hospital departments.
+
+### Key Focus
+
+* Hospital Operations Analytics
+* Capacity Planning
+* Readmission Monitoring
+* Length of Stay (LOS) Analysis
+* Decision Support Reporting
+* Executive KPI Monitoring
+
+### Tools
+
+`Tableau` `SQL` `Healthcare Analytics` `Business Intelligence`
+
+🔗 Repo: https://github.com/Denis0242/Hospital-Operations-Analytics
+
+---
+
 ## 🏥 Patient CareFlow Analytics
+
 Healthcare journey analytics platform tracking patient progression, engagement, operational KPIs, and treatment outcomes.
 
 ### Key Focus
-- Patient journey analytics
-- Funnel drop-off analysis
-- Operational KPI monitoring
-- Treatment progression analytics
-- Healthcare dashboarding
+
+* Patient Flow Analytics
+* Treatment Progression
+* Healthcare KPI Reporting
+* Operational Analytics
+* Dashboard Storytelling
 
 ### Tools
-`Tableau` `SQL` `Python` `Healthcare Analytics`
 
-🔗 Repo: [Patient-Careflow](https://github.com/Denis0242/Patient-Careflow)
+`Tableau` `SQL` `Python`
 
-**Live App:** https://patient-careflow-yemkrdq4v4juckh6pucppe.streamlit.app
+🔗 Repo: https://github.com/Denis0242/Patient-Careflow
 
 ---
 
 ## 💙 Patient Engagement Dashboard
+
 Healthcare engagement analytics dashboard evaluating patient activity, operational efficiency, and treatment engagement trends.
 
 ### Key Focus
-- Patient engagement analytics
-- Healthcare KPIs
-- Cohort retention
-- Operational monitoring
-- Digital health reporting
+
+* Patient Engagement Analytics
+* Cohort Analysis
+* Healthcare Reporting
+* Performance Monitoring
+* Operational KPIs
 
 ### Tools
+
 `Tableau` `SQL` `Power BI`
 
-🔗 Repo: [Patient-Engagement](https://github.com/Denis0242)
-
-**Live App:** https://patient-engagement-edwl7deyvnvbtlq8gns5mt.streamlit.app
+🔗 Repo: https://github.com/Denis0242
 
 ---
 
-## 🔄 Churn & Retention Analytics
-Retention analytics platform identifying churn drivers, engagement risks, and customer retention opportunities.
+## 📋 Claims Cost Risk Analytics
+
+Insurance analytics dashboard analyzing claims performance, risk exposure, cost drivers, and operational reporting metrics.
 
 ### Key Focus
-- Churn analysis
-- Retention analysis
-- Cohort analytics
-- Customer segmentation
-- Engagement monitoring
+
+* Claims Analytics
+* Cost Analysis
+* Risk Reporting
+* KPI Monitoring
+* Executive Reporting
 
 ### Tools
-`Python` `SQL` `Tableau` `Scikit-learn`
 
-🔗 Repo: [Churn-Retention](https://github.com/Denis0242)
-
-**Live App:** https://churn-retention-cuagwu7swbhet5jpkpkymu.streamlit.app
+`Tableau` `SQL` `Python`
 
 ---
 
 ## 📈 Customer Journey Analytics
-Product analytics dashboard analyzing user funnels, customer behavior, conversion trends, and engagement patterns.
+
+Analytics dashboard analyzing user behavior, customer journeys, conversion trends, and engagement patterns.
 
 ### Key Focus
-- Funnel analytics
-- Conversion optimization
-- User behavior analytics
-- Customer lifecycle analysis
-- Journey mapping
+
+* Customer Journey Analytics
+* Funnel Analysis
+* User Behavior Analytics
+* Conversion Monitoring
+* Journey Mapping
 
 ### Tools
+
 `SQL` `Tableau` `Python`
 
-🔗 Repo: [Customer-User-Journey](https://github.com/Denis0242)
-
-**Live App:** https://customer-user-journey-angajdddvhacljvmgl28x5.streamlit.app
-
 ---
 
-## 🎯 North Star Metric (NSM) Dashboard
-Executive product health dashboard tracking activation, conversion, retention, churn, and engagement KPIs.
+## 🔄 Churn & Retention Analytics
+
+Retention analytics platform identifying churn drivers, engagement risks, and customer retention opportunities.
 
 ### Key Focus
-- KPI engineering
-- Product health monitoring
-- Executive reporting
-- Product growth analytics
-- Engagement metrics
+
+* Churn Analysis
+* Retention Analysis
+* Cohort Analytics
+* Customer Segmentation
+* Performance Monitoring
 
 ### Tools
-`Tableau` `SQL` `Python`
 
-🔗 Repo: [North-Star-Metric](https://github.com/Denis0242)
-
-**Live App:** https://north-star-metric-9i3ywkxnbkcqzqqyqqqyyo.streamlit.app
+`Python` `SQL` `Tableau`
 
 ---
 
-## 🧪 Experimentation Readout Dashboard
-Experimentation analytics dashboard evaluating conversion lift, retention impact, engagement trends, and A/B test performance.
-
-### Key Focus
-- KPI comparison analysis
-- Customer engagement trends
-- Retention monitoring
-- Behavioral analysis
-- Experiment reporting support
-
-### Tools
-`Python` `Statsmodels` `SQL` `Tableau`
-
-🔗 Repo: [Experimentation-Readout](https://github.com/Denis0242)
-
-**Live App:** https://experimentation-readout-ylxtwuapppudogjpvpncs6k.streamlit.app
-
----
-
-# 📊 Analytics & Product Analytics Skills
-
-- Funnel Analysis
-- Retention & Churn Analytics
-- Cohort Analysis
-- KPI Monitoring
-- Product Health Metrics
-- Customer Journey Analytics
-- A/B Testing Support
-- Conversion Analysis
-- Segmentation Analysis
-- Dashboard Storytelling
-
----
-
-# 🧠 Experimentation & Analytics
-
-- A/B Testing Analysis
-- KPI Lift Evaluation
-- Statistical Comparisons
-- Engagement Trend Analysis
-- Experiment Readouts
-- Product Performance Monitoring
-- Cohort Retention Tracking
-
----
-
-# 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
 ## Analytics & BI
 ![SQL](https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboarding-orange?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/PowerBI-Visualization-yellow?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-Analytics-darkgreen?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-green?style=for-the-badge)
 
 ## Programming & Data
 ![Python](https://img.shields.io/badge/Python-Data%20Analytics-green?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-lightgrey?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-Data%20Analysis-blue?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-orange?style=for-the-badge)
 
 ## Data Platforms & Workflow
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge)
@@ -181,69 +178,78 @@ Experimentation analytics dashboard evaluating conversion lift, retention impact
 ![Streamlit](https://img.shields.io/badge/Streamlit-Apps-red?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-VersionControl-black?style=for-the-badge)
 
----
 
-# 📌 KPI & Metrics Focus
+# 🗄️ Data Modeling 
 
-- Activation Rate
-- Conversion Rate
-- Funnel Drop-off %
-- D1 / D7 / D30 Retention
-- Customer Churn
-- Engagement Score
-- Patient Retention
-- Product Health Metrics
-- Executive KPI Monitoring
+* Data Modeling
+* Relational Data Structures
+* Fact & Dimension Tables
+* Power Query Data Transformation
+* Data Cleaning & Validation
 
 ---
 
-# 🧾 SQL Showcase
+# 📈 Analytics & Statistical Methods
 
-### SQL Techniques Used Across Projects
+### SQL
 
-- CTEs
-- Window Functions
-- Joins
-- Aggregations
-- Cohort Queries
-- Funnel Queries
-- Retention Analysis
-- KPI Engineering
+* CTEs
+* Window Functions
+* Joins
+* Aggregations
+* CASE WHEN Logic
+* Date Functions
+* KPI Engineering
 
----
+### Analytics
 
-# 📷 Dashboard Showcase
+* KPI Analysis
+* Cohort Analysis
+* Retention Analysis
+* Customer Segmentation
+* Funnel Analysis
+* Trend Analysis
+* Operational Analytics
+* Healthcare KPI Analysis
+  
+ ### Statistical Methods
 
-### Tableau Dashboards
-- Patient CareFlow Dashboard
-- Patient Engagement Dashboard
-- Customer Churn & Retention Dashboard
-- Customer Journey Analytics Dashboard
-- North Star Metric (NSM) Dashboard
-- Experimentation Readout Dashboard
+* Descriptive Statistics
+* Inferential Statistics
+* Hypothesis Testing
+* A/B Testing Analysis
+* Confidence Intervals
+* Statistical Comparisons
 
 ---
 
 # 🏆 Certifications
-- Tableau Desktop Specialist
-- Generative AI
-- Data Science — Digicrome
+
+* Tableau Desktop Specialist
+* Generative AI
+* Data Science — Digicrome
 
 ---
 
 # 🎯 Career Focus
 
-Focused on building analytics systems that combine:
+Focused on delivering healthcare, operational, and business intelligence solutions through SQL, Tableau, KPI reporting, executive dashboards, and decision support analytics.
 
-- Data Analytics 
-- Product Analytics
-- Healthcare Analytics
-- Experimentation
-- KPI Monitoring
-- Retention Analytics
-- Executive Decision Support
+Additional interests include customer analytics, retention analysis, and user journey analytics.
 
-to drive measurable business and operational impact.
+---
 
+### Core Areas of Interest
 
-This portfolio demonstrates an analytics ecosystem connecting **healthcare, customer, and operational analytics** through KPI reporting, customer journey analysis, retention monitoring, healthcare dashboards, and data-driven decision support.
+- 🏥 Healthcare Data Analytics
+- 📊 Decision Support Analytics
+- 📈 Business Intelligence
+- 📋 Reporting & KPI Monitoring
+- 🧾 SQL Analytics
+- 📉 Operational Analytics
+- 📊 Dashboard Development
+- 🎯 Executive Reporting
+
+---
+
+This portfolio demonstrates how healthcare, insurance, customer, and operational data can be transformed into actionable insights through reporting, dashboard development, KPI monitoring, and decision support analytics.
