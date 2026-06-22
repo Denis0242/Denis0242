@@ -57,6 +57,8 @@ Executive healthcare analytics dashboard designed to monitor patient flow, capac
 
 🔗 Repo: https://github.com/Denis0242/Hospital-Operations-Analytics
 
+Live App: https://hospital-operations-analytics-lzdpjtyc7snhnesnyhtgqx.streamlit.app
+
 ---
 
 ## 🏥 Patient CareFlow Analytics
@@ -77,6 +79,8 @@ Healthcare journey analytics platform tracking patient progression, engagement, 
 
 🔗 Repo: https://github.com/Denis0242/Patient-Careflow
 
+Live App : https://patient-careflow-yemkrdq4v4juckh6pucppe.streamlit.app
+
 ---
 
 ## 💙 Patient Engagement Dashboard
@@ -95,7 +99,9 @@ Healthcare engagement analytics dashboard evaluating patient activity, operation
 
 `Tableau` `SQL` `Power BI`
 
-🔗 Repo: https://github.com/Denis0242
+🔗 Repo: https://github.com/Denis0242/Patient-Engagement
+
+Live App : https://patient-engagement-edwl7deyvnvbtlq8gns5mt.streamlit.app
 
 ---
 
@@ -115,6 +121,10 @@ Insurance analytics dashboard analyzing claims performance, risk exposure, cost 
 
 `Tableau` `SQL` `Python`
 
+🔗Repo : https://github.com/Denis0242/Claims-Cost-Analysis
+
+Live App:https://claims-cost-analysis-wjf2agdgvkqfy6z9akcswh.streamlit.app
+
 ---
 
 ## 📈 Customer Journey Analytics
@@ -133,6 +143,10 @@ Analytics dashboard analyzing user behavior, customer journeys, conversion trend
 
 `SQL` `Tableau` `Python`
 
+🔗Repo : https://github.com/Denis0242/Customer-User-Journey
+
+Live App: https://customer-user-journey-angajdddvhacljvmgl28x5.streamlit.app
+
 ---
 
 ## 🔄 Churn & Retention Analytics
@@ -150,6 +164,10 @@ Retention analytics platform identifying churn drivers, engagement risks, and cu
 ### Tools
 
 `Python` `SQL` `Tableau`
+
+🔗Repo : https://github.com/Denis0242/Churn-Retention
+
+Live App : https://churn-retention-cuagwu7swbhet5jpkpkymu.streamlit.app
 
 ---
 
