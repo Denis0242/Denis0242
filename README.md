@@ -1,7 +1,8 @@
 # Hi, Denis 👋
 
-### Data Analyst | Healthcare Analytics & Decision Support 
-• SQL • Tableau • KPI Reporting • Executive Dashboards
+### Decision Support & Analytics 
+Healthcare • Product • Operational Analytics
+
 
 📍 Oakland, CA
 
