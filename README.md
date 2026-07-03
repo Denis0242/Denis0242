@@ -16,7 +16,7 @@ Healthcare • Product • Operational Analytics
 
 ## About Me
 
-Data Analyst with 4+ years of experience across healthcare, insurance, and operational analytics environments, specializing in SQL analysis, KPI reporting, dashboard development, healthcare operations analytics, and decision support reporting.
+Data Analyst with 5 years of experience across healthcare, insurance, and operational analytics environments, specializing in SQL analysis, KPI reporting, dashboard development, healthcare operations analytics, and decision support reporting.
 
 Experienced in transforming patient, operational, and business data into actionable insights through Tableau, SQL, Power BI, Python, and Alteryx. Skilled in executive reporting, performance monitoring, operational analytics, healthcare KPI measurement, and business intelligence solutions that support data-driven decision-making.
 
