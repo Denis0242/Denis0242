@@ -1,7 +1,7 @@
 # Hi, Denis 👋
 
-### Decision Support & Analytics 
-Healthcare • Product • Operational Analytics
+### Decision Support Analytics 
+Healthcare Analytics • BI & Reporting
 
 
 📍 Oakland, CA
@@ -16,22 +16,35 @@ Healthcare • Product • Operational Analytics
 
 ## About Me
 
-Data Analyst with 5 years of experience across healthcare, insurance, and operational analytics environments, specializing in SQL analysis, KPI reporting, dashboard development, healthcare operations analytics, and decision support reporting.
+Decision Support Analyst with 5 years of experience delivering healthcare, insurance, and operational analytics that enable data-driven business and clinical decision-making.
+Experienced in transforming complex operational, patient, claims, and business data into decision-ready executive insights using SQL, Tableau, Power BI, Python, and Power Query.
+Specializes in SQL-based decision support, KPI framework development, executive reporting, healthcare operational analytics, business intelligence, and performance measurement that help organizations improve operational efficiency, patient outcomes, and strategic decision-making..
 
-Experienced in transforming patient, operational, and business data into actionable insights through Tableau, SQL, Power BI, Python, and Alteryx. Skilled in executive reporting, performance monitoring, operational analytics, healthcare KPI measurement, and business intelligence solutions that support data-driven decision-making.
+---
+# What I Build
 
-Experience also includes customer analytics, retention analysis, customer journey analytics, and performance reporting across healthcare, insurance, and operational environments.
+I design analytics solutions that help organizations answer questions such as:
+
+• Where are operational bottlenecks?
+• Which KPIs require executive attention?
+• How can healthcare resources be allocated more effectively?
+• What trends should leaders act on?
+• Which operational risks require immediate intervention?
+• How can reporting become more reliable and actionable?
+
+My work combines SQL, business intelligence, statistics, and dashboard development to produce decision-ready insights for healthcare and business leaders.
 
 ---
 
 # 📌 Impact Snapshot
 
 | Portfolio Highlights | |
-
+|----------------------|--------------------------------------------|
 | 📊 Analytics Projects | 6 End-to-End Portfolio Projects |
 | 🚀 Streamlit Apps | 6 Interactive Applications |
-| 🏥 Analytics Domains | Healthcare, Insurance & Customer Analytics |
-| 📈 Reporting Focus | Executive KPI Dashboards & Decision Support |
+| 🏥 Primary Domain | Healthcare Decision Support |
+| 📈 Secondary Domains | Insurance & Customer Analytics |
+| 📊 Reporting Focus | Executive KPI Dashboards & Decision Support |
 | 🛠️ Core Tools | SQL • Tableau • Python • Power BI • Excel |
 
 ---
@@ -68,7 +81,7 @@ This portfolio demonstrates how analytics can support:
 
 ## 🏥 Healthcare Operations Analytics
 
-Executive healthcare analytics dashboard designed to monitor patient flow, capacity utilization, readmissions, treatment outcomes, and operational bottlenecks across hospital departments.
+Executive decision support solution designed to help healthcare leaders monitor patient flow, capacity utilization, readmissions, treatment outcomes, and operational performance through KPI reporting, interactive dashboards, and data-driven insights.
 
 ### Key Focus
 
@@ -91,7 +104,7 @@ Live App: [Streamlit App](https://hospital-operations-analytics-lzdpjtyc7snhnesn
 
 ## 🏥 Patient CareFlow Analytics
 
-Healthcare journey analytics platform tracking patient progression, engagement, operational KPIs, and treatment outcomes.
+Decision support solution that analyzes patient progression, engagement, operational KPIs, and treatment outcomes to help healthcare leaders improve care delivery, monitor performance, and support operational decision-making.
 
 ### Key Focus
 
@@ -113,8 +126,7 @@ Live App: [Streamlit App](https://patient-careflow-yemkrdq4v4juckh6pucppe.stream
 
 ## 💙 Patient Engagement Dashboard
 
-Healthcare engagement analytics dashboard evaluating patient activity, operational efficiency, and treatment engagement trends.
-
+Decision support dashboard designed to evaluate patient engagement, operational efficiency, and treatment trends, enabling healthcare leaders to monitor KPIs and improve patient outcomes.
 ### Key Focus
 
 * Patient Engagement Analytics
@@ -135,7 +147,7 @@ Live App: [Streamlit App](https://patient-engagement-edwl7deyvnvbtlq8gns5mt.stre
 
 ## 📋 Claims Cost Risk Analytics
 
-Insurance analytics dashboard analyzing claims performance, risk exposure, cost drivers, and operational reporting metrics.
+Decision support solution that analyzes insurance claims performance, risk exposure, cost drivers, and operational KPIs to support business planning, risk monitoring, and executive decision-making.
 
 ### Key Focus
 
@@ -157,7 +169,7 @@ Live App: [Streamlit App](https://claims-cost-analysis-wjf2agdgvkqfy6z9akcswh.st
 
 ## 📈 Customer Journey Analytics
 
-Analytics dashboard analyzing user behavior, customer journeys, conversion trends, and engagement patterns.
+Decision support solution that analyzes customer journeys, user behavior, conversion trends, and engagement patterns to support business intelligence, performance monitoring, and strategic decision-making.
 
 ### Key Focus
 
@@ -179,8 +191,7 @@ Live App: [Streamlit App](https://customer-user-journey-angajdddvhacljvmgl28x5.s
 
 ## 🔄 Churn & Retention Analytics
 
-Retention analytics platform identifying churn drivers, engagement risks, and customer retention opportunities.
-
+Decision support solution that identifies churn drivers, engagement risks, and retention opportunities through SQL analytics, cohort analysis, and KPI reporting to support customer growth strategies.
 ### Key Focus
 
 * Churn Analysis
@@ -235,7 +246,7 @@ Live App:[Streamlit App](https://churn-retention-cuagwu7swbhet5jpkpkymu.streamli
 
 ---
 
-# 📈 Analytics & Statistical Methods
+# 📈 Decision Support Methods
 
 ### SQL
 
@@ -247,6 +258,22 @@ Live App:[Streamlit App](https://churn-retention-cuagwu7swbhet5jpkpkymu.streamli
 * Date Functions
 * KPI Engineering
 
+### Decision Support
+* KPI Framework Development
+* Performance Measurement
+* Root Cause Analysis
+* Trend Analysis
+* Operational Analytics
+* Executive Reporting
+
+### Statistical Analysis
+* Descriptive Statistics
+* Inferential Statistics
+* Hypothesis Testing
+* Confidence Intervals
+* A/B Testing
+* Statistical Comparison 
+  
 ### Analytics
 
 * KPI Analysis
@@ -258,15 +285,6 @@ Live App:[Streamlit App](https://churn-retention-cuagwu7swbhet5jpkpkymu.streamli
 * Operational Analytics
 * Healthcare KPI Analysis
   
- ### Statistical Methods
-
-* Descriptive Statistics
-* Inferential Statistics
-* Hypothesis Testing
-* A/B Testing Analysis
-* Confidence Intervals
-* Statistical Comparisons
-
 ---
 
 # 🏆 Certifications
@@ -279,7 +297,9 @@ Live App:[Streamlit App](https://churn-retention-cuagwu7swbhet5jpkpkymu.streamli
 
 # 🎯 Career Focus
 
-Focused on delivering healthcare analytics, operational reporting, KPI monitoring, and decision-support solutions that enable data-driven decision-making.
+Focused on designing decision support solutions that enable healthcare and business leaders to make informed operational, clinical, and strategic decisions through SQL analytics, KPI reporting, business intelligence, and executive dashboards.
+
+My portfolio demonstrates how data can be transformed into decision-ready insights that improve performance monitoring, operational efficiency, resource utilization, and organizational outcomes.
 
 Additional interests include customer analytics, retention analysis, and user journey analytics.
 
