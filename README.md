@@ -272,14 +272,14 @@ Live App: [Render App](https://ab-test-with-stats.onrender.com)
 
 # Portfolio Coverage
 
--🏥 Hospital Operations Analytics
--🚑 Patient Flow & Care Delivery
--💰 Insurance Claims Analytics
--❤️ Patient Engagement Analytics
--🩺 Clinical CarePath Analytics
--🧪 A/B Testing & Experimentation
--📈 Executive KPI Reporting
--📊 Statistical Decision Support
+- 🏥 Hospital Operations Analytics
+- 🚑 Patient Flow & Care Delivery
+- 💰 Insurance Claims Analytics
+- ❤️ Patient Engagement Analytics
+- 🩺 Clinical CarePath Analytics
+- 🧪 A/B Testing & Experimentation
+- 📈 Executive KPI Reporting
+- 📊 Statistical Decision Support
 
 ---
 
@@ -381,15 +381,15 @@ Additional interests include customer analytics, retention analysis, and user jo
 
 ### Core Areas of Interest
 
--🏥 Decision Support Analytics
--📊 Healthcare Analytics
--📈 Business Intelligence
--📋 Executive KPI Reporting
--📉 Operational Analytics
--🩺 Clinical Analytics
--🧪 Statistical Experimentation
--🧾 SQL Analytics
--📊 Dashboard Development
+- 🏥 Decision Support Analytics
+- 📊 Healthcare Analytics
+- 📈 Business Intelligence
+- 📋 Executive KPI Reporting
+- 📉 Operational Analytics
+- 🩺 Clinical Analytics
+- 🧪 Statistical Experimentation
+- 🧾 SQL Analytics
+- 📊 Dashboard Development
 
 ---
 
