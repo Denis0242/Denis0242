@@ -164,6 +164,31 @@ How can healthcare organizations improve patient flow, reduce delays, and optimi
 Live App: [Streamlit App](https://patient-careflow-yemkrdq4v4juckh6pucppe.streamlit.app)
 
 ---
+## 📋 Claims Cost Risk Analytics
+
+Decision support solution that analyzes insurance claims performance, risk exposure, cost drivers, and operational KPIs to support business planning, risk monitoring, and executive decision-making.
+
+### Business Question
+
+How can insurers identify cost drivers and operational risks using analytics?
+
+### Key Focus
+
+* Claims Analytics
+* Cost Analysis
+* Risk Reporting
+* KPI Monitoring
+* Executive Reporting
+
+### Tools
+
+`Tableau` `SQL` `Python`
+
+🔗Repo: [Claims Cost Risk Analytics](https://github.com/Denis0242/Claims-Cost-Analysis)
+
+Live App: [Streamlit App](https://claims-cost-analysis-wjf2agdgvkqfy6z9akcswh.streamlit.app)
+
+---
 
 ## 💙 Patient Engagement Dashboard
 
@@ -188,32 +213,6 @@ How can healthcare leaders monitor operational performance and identify improvem
 🔗 Repo: [Patient Engagement Dashboard](https://github.com/Denis0242/Patient-Engagement)
 
 Live App: [Streamlit App](https://patient-engagement-edwl7deyvnvbtlq8gns5mt.streamlit.app)
-
----
-
-## 📋 Claims Cost Risk Analytics
-
-Decision support solution that analyzes insurance claims performance, risk exposure, cost drivers, and operational KPIs to support business planning, risk monitoring, and executive decision-making.
-
-### Business Question
-
-How can insurers identify cost drivers and operational risks using analytics?
-
-### Key Focus
-
-* Claims Analytics
-* Cost Analysis
-* Risk Reporting
-* KPI Monitoring
-* Executive Reporting
-
-### Tools
-
-`Tableau` `SQL` `Python`
-
-🔗Repo: [Claims Cost Risk Analytics](https://github.com/Denis0242/Claims-Cost-Analysis)
-
-Live App: [Streamlit App](https://claims-cost-analysis-wjf2agdgvkqfy6z9akcswh.streamlit.app)
 
 ---
 
