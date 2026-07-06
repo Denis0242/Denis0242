@@ -37,10 +37,11 @@ I design analytics solutions that help organizations answer questions such as:
 My work combines SQL, business intelligence, statistics, and dashboard development to produce decision-ready insights for healthcare and business leaders.
 
 ---
-# Decision Support Framework
+# 📈 Decision Support Framework
 
 Every project in this portfolio follows the same evidence-driven framework to transform raw data into business decisions.
 
+```text
 Business Problem
         ↓
 SQL Analysis & Data Preparation
@@ -54,6 +55,7 @@ Executive Insights
 Decision Support
         ↓
 Business Impact
+```
 
 ---
 
@@ -74,23 +76,24 @@ Business Impact
 
 This portfolio demonstrates how analytics supports better operational and strategic decisions by helping organizations:
 
-• Monitor hospital performance
-• Improve patient flow
-• Reduce operational bottlenecks
-• Optimize healthcare resources
-• Understand claims cost drivers
-• Improve patient engagement
-• Analyze clinical care pathways
-• Validate business decisions through statistical experimentation
+- Monitor hospital performance
+- Improve patient flow
+- Reduce operational bottlenecks
+- Optimize healthcare resources
+- Understand claims cost drivers
+- Improve patient engagement
+- Analyze clinical care pathways
+- Validate business decisions through statistical experimentation
 
 ---
 The following projects demonstrate how SQL, business intelligence, statistical analysis, and interactive dashboards are applied to solve real healthcare, insurance, and customer analytics problems through decision support.
 
-# Portfolio Journey
+# 🗺️ Portfolio Journey
 
 Each project builds on the previous one to demonstrate increasingly advanced
 decision support capabilities.
 
+```text
 Hospital Operations Analytics
         ↓
 Patient CareFlow Analytics
@@ -102,6 +105,7 @@ Patient Engagement Dashboard
 CarePath Analytics
         ↓
 A/B Testing & Experimentation Framework
+```
 
 Together these projects showcase SQL analytics, KPI development, statistical analysis, executive reporting, healthcare operations, and evidence-based decision support.
 
