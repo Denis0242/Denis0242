@@ -37,21 +37,23 @@ I design analytics solutions that help organizations answer questions such as:
 My work combines SQL, business intelligence, statistics, and dashboard development to produce decision-ready insights for healthcare and business leaders.
 
 ---
-## My Approach
+# Decision Support Framework
 
-Every project in this portfolio follows the same decision support framework:
+Every project in this portfolio follows the same evidence-driven framework to transform raw data into business decisions.
 
-Business Question
+Business Problem
         ↓
-SQL Analysis
+SQL Analysis & Data Preparation
         ↓
-KPI Development
+KPI Development & Statistical Analysis
         ↓
-Dashboard & Visualization
+Interactive Dashboard & Reporting
         ↓
 Executive Insights
         ↓
-Business Decision
+Decision Support
+        ↓
+Business Impact
 
 ---
 
@@ -67,21 +69,41 @@ Business Decision
 | 🛠️ Core Tools | SQL • Tableau • Python • Power BI • Excel |
 
 ---
+ 
+# 🎯 Business Problems I Solve
 
-  # 🎯 Business Problems I Solve
+This portfolio demonstrates how analytics supports better operational and strategic decisions by helping organizations:
 
-This portfolio demonstrates how analytics helps organizations:
-
-- Monitor executive KPIs
-- Improve healthcare operations
-- Optimize capacity planning
-- Identify operational risks
-- Allocate resources effectively
-- Improve patient outcomes
-- Support executive decision-making
+• Monitor hospital performance
+• Improve patient flow
+• Reduce operational bottlenecks
+• Optimize healthcare resources
+• Understand claims cost drivers
+• Improve patient engagement
+• Analyze clinical care pathways
+• Validate business decisions through statistical experimentation
 
 ---
 The following projects demonstrate how SQL, business intelligence, statistical analysis, and interactive dashboards are applied to solve real healthcare, insurance, and customer analytics problems through decision support.
+
+# Portfolio Journey
+
+Each project builds on the previous one to demonstrate increasingly advanced
+decision support capabilities.
+
+Hospital Operations Analytics
+        ↓
+Patient CareFlow Analytics
+        ↓
+Claims Cost Risk Analytics
+        ↓
+Patient Engagement Dashboard
+        ↓
+CarePath Analytics
+        ↓
+A/B Testing & Experimentation Framework
+
+Together these projects showcase SQL analytics, KPI development, statistical analysis, executive reporting, healthcare operations, and evidence-based decision support.
 
 # 🚀 Featured Analytics Projects
 
@@ -241,6 +263,18 @@ How can organizations identify customers at risk of churn, understand the key dr
 Live App:[Streamlit App](https://churn-retention-cuagwu7swbhet5jpkpkymu.streamlit.app)
 
 ---
+# Portfolio Coverage
+
+-🏥 Hospital Operations Analytics
+-🚑 Patient Flow & Care Delivery
+-💰 Insurance Claims Analytics
+-❤️ Patient Engagement Analytics
+-🩺 Clinical CarePath Analytics
+-🧪 A/B Testing & Experimentation
+-📈 Executive KPI Reporting
+-📊 Statistical Decision Support
+
+---
 
 # 🛠️ Decision Support Technology Stack
 
@@ -330,9 +364,9 @@ Live App:[Streamlit App](https://churn-retention-cuagwu7swbhet5jpkpkymu.streamli
 
 # 🎯 Career Focus
 
-Focused on designing decision support solutions that enable healthcare and business leaders to make informed operational, clinical, and strategic decisions through SQL analytics, KPI reporting, business intelligence, and executive dashboards.
+I specialize in designing SQL-driven decision support solutions that enable healthcare organizations to improve operational performance, optimize patient care, monitor executive KPIs, and support evidence-based decision-making.
 
-This portfolio showcases how SQL, business intelligence, healthcare analytics, and statistical analysis can be combined to produce decision-ready insights that improve operational performance, resource utilization, and executive decision-making.
+My portfolio combines healthcare operations analytics, insurance analytics, business intelligence, statistical analysis, dashboard development, and experimentation to demonstrate how data can be transformed into actionable insights for executives and operational leaders.
 
 Additional interests include customer analytics, retention analysis, and user journey analytics.
 
@@ -340,18 +374,20 @@ Additional interests include customer analytics, retention analysis, and user jo
 
 ### Core Areas of Interest
 
-- 🏥 Decision Support Analytics
-- 📊 Healthcare Analytics
-- 📈 Business Intelligence
-- 📋 Executive KPI Reporting
-- 🧾 SQL Analytics
-- 📉 Operational Analytics
-- 📊 Dashboard Development
-- 📈 Statistical Analysis
+-🏥 Decision Support Analytics
+-📊 Healthcare Analytics
+-📈 Business Intelligence
+-📋 Executive KPI Reporting
+-📉 Operational Analytics
+-🩺 Clinical Analytics
+-🧪 Statistical Experimentation
+-🧾 SQL Analytics
+-📊 Dashboard Development
 
 ---
 
-This portfolio demonstrates how SQL, business intelligence, healthcare analytics, and statistical analysis are applied to transform healthcare, insurance, customer, and operational data into decision-ready insights for executive and operational decision-making.
-I'm passionate about helping healthcare and business leaders transform data into decision-ready insights through SQL, business intelligence, and decision support analytics.
+This portfolio showcases how SQL, business intelligence, healthcare analytics, statistical methods, and executive reporting can be combined to transform complex operational, clinical, and business data into decision-ready insights.
+
+I'm passionate about helping healthcare organizations make faster, smarter, and more evidence-based decisions through analytics, KPI reporting, and decision support.
 
 If you're interested in healthcare analytics, decision support, or business intelligence, I'd be happy to connect.
