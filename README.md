@@ -27,16 +27,17 @@ Specializes in SQL-based decision support, KPI framework development, executive 
 
 I design analytics solutions that help organizations answer questions such as:
 
-• Where are operational bottlenecks?
-• Which KPIs require executive attention?
-• How can healthcare resources be allocated more effectively?
-• What trends should leaders act on?
-• Which operational risks require immediate intervention?
-• How can reporting become more reliable and actionable?
+- Where are operational bottlenecks?
+- Which KPIs require executive attention?
+- How can healthcare resources be allocated more effectively?
+- What trends should leaders act on?
+- Which operational risks require immediate intervention?
+- How can reporting become more reliable and actionable?
 
 My work combines SQL, business intelligence, statistics, and dashboard development to produce decision-ready insights for healthcare and business leaders.
 
 ---
+
 # 📈 Decision Support Framework
 
 Every project in this portfolio follows the same evidence-driven framework to transform raw data into business decisions.
