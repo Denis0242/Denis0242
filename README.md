@@ -178,7 +178,7 @@ How can healthcare leaders monitor operational performance and identify improvem
 
 ### Tools
 
-`Tableau` `SQL` `Power BI`
+`Tableau` `SQL` `Power BI` 
 
 🔗 Repo: [Patient Engagement Dashboard](https://github.com/Denis0242/Patient-Engagement)
 
@@ -212,57 +212,59 @@ Live App: [Streamlit App](https://claims-cost-analysis-wjf2agdgvkqfy6z9akcswh.st
 
 ---
 
-## 📈 Customer Journey Analytics
+## 🩺 CarePath Analytics
 
-Decision support solution that analyzes customer journeys, user behavior, conversion trends, and engagement patterns to support business intelligence, performance monitoring, and strategic decision-making.
+Decision support solution that analyzes clinical care pathways, treatment progression, patient outcomes, and operational bottlenecks to help healthcare organizations optimize care delivery, improve clinical performance, and support evidence-based decision-making.
 
 ### Business Question
 
-How can organizations improve user engagement and conversion using customer behavior analytics?
+How can healthcare organizations optimize clinical care pathways, identify treatment bottlenecks, and improve patient outcomes through data-driven analytics?
 
 ### Key Focus
 
-* Customer Journey Analytics
-* Funnel Analysis
-* User Behavior Analytics
-* Conversion Monitoring
-* Journey Mapping
+* Clinical Care Pathway Analytics
+* Treatment Progression Analysis
+* Patient Outcome Monitoring
+* Care Path Optimization
+* Operational Bottleneck Analysis
 
 ### Tools
 
 `SQL` `Tableau` `Python`
 
-🔗Repo: [Customer Journey Analytics](https://github.com/Denis0242/Customer-User-Journey)
+🔗 Repo: [CarePath Analytics](https://github.com/Denis0242/CarePath-Analytics)
 
-Live App: [Streamlit App](https://customer-user-journey-angajdddvhacljvmgl28x5.streamlit.app)
+Live App: [Streamlit App](https://jn4vvly3pf2qrnfkrgka2t.streamlit.app)
 
----
+--
 
-## 🔄 Churn & Retention Analytics
+## 🧪 A/B Testing & Experimentation Framework
 
-Decision support solution that identifies churn drivers, engagement risks, and retention opportunities through SQL analytics, cohort analysis, and KPI reporting to support customer growth strategies.
+Decision support solution that leverages A/B testing, statistical experimentation, and hypothesis testing to evaluate business initiatives, measure the impact of product and operational changes, and support confident, evidence-based decision-making.
 
 ### Business Question
 
-How can organizations identify customers at risk of churn, understand the key drivers of retention, and prioritize interventions that improve customer loyalty and long-term business performance?
+How can organizations use controlled experiments and statistical analysis to validate business decisions, measure change impact, and optimize performance?
 
 ### Key Focus
 
-* Churn Analysis
-* Retention Analysis
-* Cohort Analytics
-* Customer Segmentation
-* Performance Monitoring
+* A/B Testing
+* Experimental Design
+* Hypothesis Testing
+* Statistical Analysis
+* Performance Measurement
+* Decision Support
 
 ### Tools
 
-`Python` `SQL` `Tableau`
+`Python` `SQL` `Statistics`
 
-🔗Repo:[Churn & Retention Analytics](https://github.com/Denis0242/Churn-Retention)
+🔗 Repo: [A/B Testing & Experimentation Framework](https://github.com/Denis0242/AB-Testing-Experimentation-Framework)
 
-Live App:[Streamlit App](https://churn-retention-cuagwu7swbhet5jpkpkymu.streamlit.app)
+Live App: [Render App](https://ab-test-with-stats.onrender.com)
 
 ---
+
 # Portfolio Coverage
 
 -🏥 Hospital Operations Analytics
