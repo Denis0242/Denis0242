@@ -1,399 +1,618 @@
-# Hi, Denis 👋
+# 👋 Hi, I'm Denis Agyapong
 
-### Decision Support Analyst
-Healthcare Analytics • BI & Reporting
+## Financial Crime & AML Analytics
 
-Building SQL-driven decision support solutions that transform data into executive-ready insights.
+### AML Investigations • Transaction Monitoring • KYC/EDD • SAR • Sanctions • Fraud | SQL • Python • Tableau • Streamlit
 
+I combine **hands-on AML and financial crime investigation experience** with **data analytics, SQL, Python, Tableau, and Streamlit** to investigate suspicious activity, analyze financial crime risk, improve transaction monitoring, and transform complex compliance data into actionable intelligence.
 
-📍 Oakland, CA
+My portfolio demonstrates the intersection of:
 
-📧 [vantjohnn@gmail.com](mailto:vantjohnn@gmail.com)
-
-🔗 [LinkedIn](https://linkedin.com/in/denis-agyapong)  
-📊 [Tableau Public](https://public.tableau.com/profile/denis.king)  
-🐙 [GitHub](https://github.com/Denis0242)
+**AML Domain Expertise + Investigations + Data Analytics + Business Intelligence**
 
 ---
 
-## About Me
+# 🔎 About Me
 
-Decision Support Analyst with 5 years of experience delivering healthcare, insurance, and operational analytics that enable data-driven business and clinical decision-making.
-Experienced in transforming complex operational, patient, claims, and business data into decision-ready executive insights using SQL, Tableau, Power BI, Python, and Power Query.
-Specializes in SQL-based decision support, KPI framework development, executive reporting, healthcare operational analytics, business intelligence, and performance measurement that help organizations improve operational efficiency, patient outcomes, and strategic decision-making.
+I am a **Financial Crime & AML Analytics professional with 5 years of experience** across AML investigations, transaction monitoring, KYC/CDD/EDD, sanctions screening, fraud investigations, customer risk assessment, alert review, escalation, and SAR decision support.
 
----
-# What I Build
+My professional experience includes working with complex transaction activity, customer profiles, high-risk relationships, sanctions and PEP screening, fraud indicators, and system-generated AML alerts.
 
-I design analytics solutions that help organizations answer questions such as:
+I complement that domain experience with technical analytics skills in:
 
-- Where are operational bottlenecks?
-- Which KPIs require executive attention?
-- How can healthcare resources be allocated more effectively?
-- What trends should leaders act on?
-- Which operational risks require immediate intervention?
-- How can reporting become more reliable and actionable?
+`SQL` • `Python` • `Tableau` • `Streamlit` • `Data Analysis` • `Feature Engineering` • `Risk Analytics` • `Dashboard Development`
 
-My work combines SQL, business intelligence, statistics, and dashboard development to produce decision-ready insights for healthcare and business leaders.
+This combination allows me to approach financial crime from both an **investigator's perspective** and an **analytics perspective**.
 
 ---
 
-# 📈 Decision Support Framework
+# 🧭 Financial Crime Investigation & Analytics Framework
 
-Every project in this portfolio follows the same evidence-driven framework to transform raw data into business decisions.
+My portfolio follows an end-to-end financial crime analytics workflow:
 
 ```text
-Business Problem
-        ↓
-SQL Analysis & Data Preparation
-        ↓
-KPI Development & Statistical Analysis
-        ↓
-Interactive Dashboard & Reporting
-        ↓
-Executive Insights
-        ↓
-Decision Support
-        ↓
-Business Impact
+Customer / Transaction Data
+            ↓
+Data Quality & EDA
+            ↓
+Feature Engineering
+            ↓
+Customer & Transaction Risk Analysis
+            ↓
+Transaction Monitoring / Screening
+            ↓
+Alert Generation & Prioritization
+            ↓
+Investigation
+            ↓
+KYC / EDD / OSINT Review
+            ↓
+Case Decision & Escalation
+            ↓
+SAR Decision Support
+            ↓
+QA / Rule Performance Analysis
+            ↓
+Management Reporting & Dashboards
 ```
 
----
+The objective is not simply to generate alerts.
 
-# 📌 Impact Snapshot
-
-| Portfolio Highlights | |
-|----------------------|--------------------------------------------|
-| 📊 Analytics Projects | 6 End-to-End Portfolio Projects |
-| 🚀 Streamlit Apps | 6 Interactive Applications |
-| 🏥 Primary Domain | Healthcare Decision Support |
-| 📈 Secondary Domains | Insurance & Customer Analytics |
-| 📊 Reporting Focus | Executive KPI Dashboards & Decision Support |
-| 🛠️ Core Tools | SQL • Tableau • Python • Power BI • Excel |
+The objective is to turn **data → risk signals → investigation → defensible decisions → actionable financial crime intelligence.**
 
 ---
- 
-# 🎯 Business Problems I Solve
 
-This portfolio demonstrates how analytics supports better operational and strategic decisions by helping organizations:
+# 📌 Portfolio Snapshot
 
-- Monitor hospital performance
-- Improve patient flow
-- Reduce operational bottlenecks
-- Optimize healthcare resources
-- Understand claims cost drivers
-- Improve patient engagement
-- Analyze clinical care pathways
-- Validate business decisions through statistical experimentation
+| Area                      | Coverage                                                |
+| ------------------------- | ------------------------------------------------------- |
+| 🏦 AML Portfolio          | 7 End-to-End Financial Crime Projects                   |
+| 🔎 Investigation          | Alert Review • Case Investigation • Escalation          |
+| 💳 Transaction Monitoring | Scenario Analysis • Pattern Detection • Alert Analytics |
+| 👤 Customer Risk          | KYC • CDD • EDD • Risk Scoring                          |
+| 📝 SAR                    | Investigation Support • SAR Decision Analytics          |
+| 🌐 Sanctions              | OFAC • PEP • Screening Analytics                        |
+| 🚨 Fraud                  | Suspicious Transaction & Behavioral Pattern Detection   |
+| 📊 QA                     | Alert Quality • False Positives • Rule Performance      |
+| 🧠 Analytics              | EDA • Feature Engineering • Trend & Risk Analysis       |
+| 🛠️ Core Tools            | SQL • Python • Tableau • Streamlit                      |
 
 ---
-The following projects demonstrate how SQL, business intelligence, statistical analysis, and interactive dashboards are applied to solve real healthcare, insurance, and customer analytics problems through decision support.
 
-# 🗺️ Portfolio Journey
+# 🚀 Featured Financial Crime & AML Projects
 
-Each project builds on the previous one to demonstrate increasingly advanced
-decision support capabilities.
+## 1️⃣ AML Transaction Monitoring & Alert Investigation
+
+An end-to-end transaction monitoring and AML investigation project designed to identify unusual transaction activity, prioritize alerts, analyze customer behavior, and support investigator decision-making.
+
+### Key Focus
+
+* Transaction Monitoring
+* AML Alert Investigation
+* Suspicious Activity Detection
+* Transaction Pattern Analysis
+* Customer Behavior Analysis
+* Risk-Based Alert Prioritization
+* Investigation Analytics
+* Escalation Decision Support
+
+### Analytics Workflow
 
 ```text
-Hospital Operations Analytics
-        ↓
-Patient CareFlow Analytics
-        ↓
-Claims Cost Risk Analytics
-        ↓
-Patient Engagement Dashboard
-        ↓
-CarePath Analytics
-        ↓
-A/B Testing & Experimentation Framework
+Transactions
+     ↓
+Monitoring Scenarios
+     ↓
+Risk Indicators
+     ↓
+Alerts
+     ↓
+Alert Prioritization
+     ↓
+Investigation
+     ↓
+Close / Escalate
 ```
 
-Together these projects showcase SQL analytics, KPI development, statistical analysis, executive reporting, healthcare operations, and evidence-based decision support.
+### Tools
 
-# 🚀 Featured Analytics Projects
+`SQL` `Python` `Tableau` `Streamlit` `EDA` `Feature Engineering`
 
-## 🏥 Healthcare Operations Decision Support
+---
 
-Executive decision support solution designed to help healthcare leaders monitor patient flow, capacity utilization, readmissions, treatment outcomes, and operational performance through KPI reporting, interactive dashboards, and data-driven insights.
+## 2️⃣ AML Case Investigation & SAR Decision Analytics
 
-### Business Question
-
-How can healthcare leaders monitor operational performance and identify improvement opportunities?
+A case investigation analytics project demonstrating how transaction alerts, customer risk information, transaction history, and investigative findings can be brought together to support AML case decisions and SAR escalation.
 
 ### Key Focus
 
-* Hospital Operations Analytics
-* Capacity Planning
-* Readmission Monitoring
-* Length of Stay (LOS) Analysis
-* Decision Support Reporting
-* Executive KPI Monitoring
+* AML Case Investigation
+* Transaction Analysis
+* Customer Risk Review
+* Case Prioritization
+* Suspicious Activity Assessment
+* SAR Decision Support
+* Investigation Narratives
+* Escalation Analysis
+
+### Investigation Flow
+
+```text
+Alert
+   ↓
+Customer Profile
+   ↓
+Transaction History
+   ↓
+Investigation
+   ↓
+Risk Assessment
+   ↓
+Case Decision
+   ↓
+Close / Escalate / SAR Review
+```
 
 ### Tools
 
-`Tableau` `SQL` `Healthcare Analytics` `Business Intelligence`
-
-🔗 Repo: [Healthcare Operations Analytics](https://github.com/Denis0242/Hospital-Operations-Analytics)
-
-Live App: [Streamlit App](https://hospital-operations-analytics-lzdpjtyc7snhnesnyhtgqx.streamlit.app)
+`SQL` `Python` `Tableau` `Streamlit` `AML Analytics`
 
 ---
 
-## 🏥 Patient CareFlow & Outcomes Analytics
+## 3️⃣ AML Alert Quality, QA & Rule Performance
 
-Decision support solution that analyzes patient progression, engagement, operational KPIs, and treatment outcomes to help healthcare leaders improve care delivery, monitor performance, and support operational decision-making.
-
-### Business Question
-
-How can healthcare organizations improve patient flow, reduce delays, and optimize treatment progression?
+An AML quality assurance and transaction-monitoring analytics project focused on evaluating alert effectiveness, investigator outcomes, false positives, scenario performance, and monitoring-rule quality.
 
 ### Key Focus
 
-* Patient Flow Analytics
-* Treatment Progression
-* Healthcare KPI Reporting
-* Operational Analytics
-* Dashboard Storytelling
+* AML Quality Assurance
+* Alert Quality
+* Transaction Monitoring Rules
+* False-Positive Analysis
+* Scenario Performance
+* Alert-to-Case Conversion
+* Investigator Outcomes
+* Rule Effectiveness
+* QA Reporting
+
+### Analytics Flow
+
+```text
+Monitoring Rules
+       ↓
+Generated Alerts
+       ↓
+Investigation Outcomes
+       ↓
+QA Review
+       ↓
+False Positive Analysis
+       ↓
+Rule Performance
+       ↓
+Optimization Opportunities
+```
 
 ### Tools
 
-`Tableau` `SQL` `Python`
-
-🔗 Repo: [Patient CareFlow Analytics](https://github.com/Denis0242/Patient-Careflow)
-
-Live App: [Streamlit App](https://patient-careflow-yemkrdq4v4juckh6pucppe.streamlit.app)
+`SQL` `Python` `Tableau` `Streamlit` `QA Analytics`
 
 ---
-## 📋 Claims Cost Risk Analytics
 
-Decision support solution that analyzes insurance claims performance, risk exposure, cost drivers, and operational KPIs to support business planning, risk monitoring, and executive decision-making.
+## 4️⃣ Customer Risk & KYC/EDD Analytics
 
-### Business Question
-
-How can insurers identify cost drivers and operational risks using analytics?
+A customer-risk analytics project demonstrating how KYC information, customer characteristics, risk indicators, transaction behavior, and enhanced due diligence can be combined to identify and prioritize higher-risk customers.
 
 ### Key Focus
 
-* Claims Analytics
-* Cost Analysis
-* Risk Reporting
-* KPI Monitoring
-* Executive Reporting
+* KYC
+* CDD
+* Enhanced Due Diligence
+* Customer Risk Rating
+* High-Risk Customer Identification
+* Risk Segmentation
+* Customer Profiling
+* Ongoing Monitoring
+* Risk-Based Review Prioritization
+
+### Customer Risk Flow
+
+```text
+Customer Onboarding
+       ↓
+KYC / CDD
+       ↓
+Risk Factors
+       ↓
+Customer Risk Score
+       ↓
+Low / Medium / High Risk
+       ↓
+EDD
+       ↓
+Ongoing Monitoring
+```
 
 ### Tools
 
-`Tableau` `SQL` `Python`
+`SQL` `Python` `Tableau` `Streamlit` `Risk Analytics`
 
-🔗Repo: [Claims Cost Risk Analytics](https://github.com/Denis0242/Claims-Cost-Analysis)
-
-Live App: [Streamlit App](https://claims-cost-analysis-wjf2agdgvkqfy6z9akcswh.streamlit.app)
+🔗 Repository: [Customer-KYC-EDD](https://github.com/Denis0242/Customer-KYC-EDD)
 
 ---
 
-## 💙 Patient Engagement Dashboard
+## 5️⃣ Sanctions Compliance Analytics
 
-Decision support dashboard designed to evaluate patient engagement, operational efficiency, and treatment trends, enabling healthcare leaders to monitor KPIs and improve patient outcomes.
-
-### Business Question
-
-How can healthcare leaders monitor operational performance and identify improvement opportunities?
+A sanctions-screening analytics project designed to evaluate customer and transaction screening alerts, potential sanctions exposure, match quality, and investigation outcomes.
 
 ### Key Focus
 
-* Patient Engagement Analytics
-* Cohort Analysis
-* Healthcare Reporting
-* Performance Monitoring
-* Operational KPIs
+* Sanctions Screening
+* OFAC
+* Watchlist Screening
+* PEP Risk
+* Customer Screening
+* Counterparty Screening
+* Transaction Screening
+* Match Analysis
+* False-Positive Review
+* Compliance Reporting
+
+### Screening Flow
+
+```text
+Customer / Counterparty / Transaction
+                 ↓
+           Screening
+                 ↓
+        Potential Match
+                 ↓
+       Alert Investigation
+                 ↓
+True Match / False Positive / Escalate
+```
 
 ### Tools
 
-`Tableau` `SQL` `Power BI` 
-
-🔗 Repo: [Patient Engagement Dashboard](https://github.com/Denis0242/Patient-Engagement)
-
-Live App: [Streamlit App](https://patient-engagement-edwl7deyvnvbtlq8gns5mt.streamlit.app)
+`SQL` `Python` `Tableau` `Streamlit` `Sanctions Analytics`
 
 ---
 
-## 🩺 CarePath Analytics
+## 6️⃣ Financial Crime Analytics
 
-Decision support solution that analyzes clinical care pathways, treatment progression, patient outcomes, and operational bottlenecks to help healthcare organizations optimize care delivery, improve clinical performance, and support evidence-based decision-making.
-
-### Business Question
-
-How can healthcare organizations optimize clinical care pathways, identify treatment bottlenecks, and improve patient outcomes through data-driven analytics?
+A broader financial crime intelligence project bringing together transaction monitoring, customer risk, suspicious activity, investigative outcomes, geographic exposure, and management reporting.
 
 ### Key Focus
 
-* Clinical Care Pathway Analytics
-* Treatment Progression Analysis
-* Patient Outcome Monitoring
-* Care Path Optimization
-* Operational Bottleneck Analysis
+* Financial Crime Analytics
+* Transaction Risk
+* Customer Risk
+* Suspicious Activity Trends
+* Geographic Risk
+* Product Risk
+* Case Analytics
+* Investigation Funnel Analysis
+* Financial Crime Intelligence
+* Management Reporting
+
+### Analytics Flow
+
+```text
+Customers + Transactions + Alerts
+              ↓
+       Financial Crime Data
+              ↓
+       Risk Segmentation
+              ↓
+       Pattern Analysis
+              ↓
+     Investigation Trends
+              ↓
+       Risk Intelligence
+              ↓
+     Management Dashboard
+```
 
 ### Tools
 
-`SQL` `Tableau` `Python`
+`SQL` `Python` `Tableau` `Streamlit` `Financial Crime Analytics`
 
-🔗 Repo: [CarePath Analytics](https://github.com/Denis0242/CarePath-Analytics)
+---
 
-Live App: [Streamlit App](https://jn4vvly3pf2qrnfkrgka2t.streamlit.app)
+## 7️⃣ Fraud & Suspicious Transaction Pattern Detection
 
---
-
-## 🧪 A/B Testing & Experimentation Framework
-
-Decision support solution that leverages A/B testing, statistical experimentation, and hypothesis testing to evaluate business initiatives, measure the impact of product and operational changes, and support confident, evidence-based decision-making.
-
-### Business Question
-
-How can organizations use controlled experiments and statistical analysis to validate business decisions, measure change impact, and optimize performance?
+A fraud and suspicious-transaction analytics project focused on detecting unusual customer and transaction behavior through engineered risk indicators and behavioral patterns.
 
 ### Key Focus
 
-* A/B Testing
-* Experimental Design
-* Hypothesis Testing
-* Statistical Analysis
-* Performance Measurement
-* Decision Support
+* Fraud Detection
+* Suspicious Transaction Detection
+* Behavioral Analysis
+* Transaction Velocity
+* Unusual Amount Patterns
+* Customer Risk Signals
+* Pattern Detection
+* Risk Scoring
+* Fraud Analytics
+* Investigation Prioritization
+
+### Detection Flow
+
+```text
+Transaction Data
+       ↓
+EDA & Data Quality
+       ↓
+Feature Engineering
+       ↓
+Behavioral Indicators
+       ↓
+Suspicious Patterns
+       ↓
+Risk Scoring
+       ↓
+Investigation Prioritization
+```
 
 ### Tools
 
-`Python` `SQL` `Statistics`
+`SQL` `Python` `Tableau` `Streamlit` `Fraud Analytics`
 
-🔗 Repo: [A/B Testing & Experimentation Framework](https://github.com/Denis0242/AB-Testing-Experimentation-Framework)
-
-Live App: [Render App](https://ab-test-with-stats.onrender.com)
+🔗 Repository: [Fraud-Suspicious](https://github.com/Denis0242/Fraud-Suspicious)
 
 ---
 
-# Portfolio Coverage
+# 🔬 EDA + Feature Engineering
 
-- 🏥 Hospital Operations Analytics
-- 🚑 Patient Flow & Care Delivery
-- 💰 Insurance Claims Analytics
-- ❤️ Patient Engagement Analytics
-- 🩺 Clinical CarePath Analytics
-- 🧪 A/B Testing & Experimentation
-- 📈 Executive KPI Reporting
-- 📊 Statistical Decision Support
+Each project includes a structured analytical workflow to demonstrate that financial crime analysis begins **before the dashboard**.
 
----
+## EDA Workflow
 
-# 🛠️ Decision Support Technology Stack
-
-## Analytics & BI
-![SQL](https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboarding-orange?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/PowerBI-Visualization-yellow?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-Analytics-darkgreen?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-green?style=for-the-badge)
-
-## Programming & Data
-![Python](https://img.shields.io/badge/Python-Data%20Analytics-green?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-EDA-lightgrey?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-Data%20Analysis-blue?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-orange?style=for-the-badge)
-
-## Data Platforms & Workflow
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge)
-![Snowflake](https://img.shields.io/badge/Snowflake-DataWarehouse-blue?style=for-the-badge)
-![Redshift](https://img.shields.io/badge/Redshift-Analytics-darkred?style=for-the-badge)
-![Alteryx](https://img.shields.io/badge/Alteryx-Workflow%20Automation-orange?style=for-the-badge)
-
-## Apps & Deployment
-![Streamlit](https://img.shields.io/badge/Streamlit-Apps-red?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-VersionControl-black?style=for-the-badge)
-
-
-## 🗄️ Data Modeling 
-
-* Data Modeling
-* Relational Data Structures
-* Fact & Dimension Tables
-* Power Query Data Transformation
-* Data Cleaning & Validation
+1. Load Data
+2. Dataset Review
+3. Missing Value Analysis
+4. Duplicate Validation
+5. Datatype Cleaning
+6. Column Standardization
+7. Data Quality Checks
+8. Outlier Detection
+9. Range Validation
+10. KPI Validation
+11. Feature Engineering
+12. Business Rule Validation
+13. Summary Statistics
+14. Final Dataset Export
+15. Insight Generation
 
 ---
 
-# 📈 Decision Support Methods
+# 🧠 Financial Crime Analytics Capabilities
 
-### SQL Analytics
+## 🔎 AML Investigations
 
-* CTEs
-* Window Functions
-* Joins
-* Aggregations
-* CASE WHEN Logic
-* Date Functions
-* KPI Engineering
+* Transaction Monitoring Alert Review
+* Customer Activity Analysis
+* Suspicious Activity Investigation
+* Alert Disposition Analysis
+* Case Escalation
+* SAR Decision Support
+* Investigation Documentation
+* High-Risk Account Review
 
-### Decision Support
-* KPI Framework Development
-* Performance Measurement
-* Root Cause Analysis
-* Trend Analysis
-* Operational Analytics
-* Executive Reporting
-  
-### Analytics
+## 👤 KYC / Customer Risk
 
-* KPI Analysis
-* Cohort Analysis
-* Retention Analysis
-* Customer Segmentation
-* Funnel Analysis
-* Trend Analysis
-* Operational Analytics
-* Healthcare KPI Analysis
+* KYC
+* CDD
+* Enhanced Due Diligence
+* Customer Risk Assessment
+* High-Risk Customer Reviews
+* Risk Segmentation
+* Customer Profiling
+* Ongoing Monitoring
+* PEP Review
+* Negative News / Adverse Media Research
 
- ### Statistical Methods
- 
-* Descriptive Statistics
-* Inferential Statistics
-* Hypothesis Testing
-* Confidence Intervals
-* A/B Testing
-* Statistical Comparison 
-  
+## 🌐 Sanctions
+
+* OFAC Screening
+* Sanctions Alert Review
+* Customer Screening
+* Counterparty Screening
+* Transaction Screening
+* Potential Match Analysis
+* False-Positive Analysis
+* Escalation Support
+
+## 🚨 Fraud
+
+* Fraud Investigation
+* Suspicious Transaction Analysis
+* Behavioral Pattern Detection
+* Transaction Pattern Analysis
+* Risk Indicators
+* Anomaly Investigation
+* Fraud Risk Analytics
+
+## 📊 Transaction Monitoring & QA
+
+* Transaction Monitoring
+* Scenario Analysis
+* Alert Analytics
+* Alert Quality
+* False-Positive Analysis
+* Rule Performance
+* QA Analytics
+* Investigation Outcomes
+* Alert-to-Case Analysis
+
 ---
 
-# 🏆 Certifications
+# 🛠️ Technical Skills
 
-* Tableau Desktop Specialist
-* Generative AI
-* Data Science — Digicrome
+## SQL
+
+`CTEs` • `Window Functions` • `Joins` • `CASE WHEN` • `Subqueries` • `Aggregations` • `Date Functions` • `Risk Segmentation` • `KPI Development` • `Transaction Analysis`
+
+I use SQL to move beyond simple querying and answer financial crime questions such as:
+
+* Which customers demonstrate unusual transaction behavior?
+* Which monitoring scenarios generate the highest number of alerts?
+* Which customers have multiple risk indicators?
+* Which transaction patterns warrant investigation?
+* Which alerts are repeatedly closed as false positives?
+* Where are financial crime risks concentrated?
+
+---
+
+## Python
+
+`Pandas` • `NumPy` • `Data Cleaning` • `EDA` • `Feature Engineering` • `Risk Analysis` • `Pattern Detection` • `Data Validation`
+
+Python is used throughout the portfolio for data preparation, exploratory analysis, engineered risk indicators, transaction analysis, customer profiling, and analytical datasets.
+
+---
+
+## Tableau
+
+I use Tableau to transform financial crime data into investigator and management-facing visual analytics covering:
+
+* Alert Trends
+* Customer Risk
+* Transaction Risk
+* Investigation Outcomes
+* Fraud Exposure
+* Sanctions Screening
+* QA Performance
+* Geographic Risk
+* Financial Crime KPIs
+
+---
+
+## Streamlit
+
+Streamlit is used to turn analytical projects into interactive applications where users can explore financial crime data, apply filters, investigate risk patterns, review KPIs, and interact with analytical outputs.
+
+---
+
+# 💼 AML & Financial Crime Domain Experience
+
+My professional and portfolio experience covers the financial crime lifecycle:
+
+```text
+KYC / Customer Onboarding
+          ↓
+Customer Risk Assessment
+          ↓
+Transaction Monitoring
+          ↓
+Alert Review
+          ↓
+Investigation
+          ↓
+EDD / Additional Research
+          ↓
+Case Escalation
+          ↓
+SAR Decision Support
+          ↓
+QA / Monitoring
+```
+
+### Domain Coverage
+
+`AML` • `BSA` • `KYC` • `CDD` • `EDD` • `Transaction Monitoring` • `SAR` • `OFAC` • `Sanctions` • `PEP` • `Fraud` • `Customer Risk` • `Alert Investigation` • `Financial Crime Analytics`
+
+---
+
+# 🧰 AML / Investigation Tools Experience
+
+Professional exposure includes financial crime, investigation, case-management, analytics, and research platforms such as:
+
+`Actimize` • `SAS` • `Unit21` • `Verafin` • `LexisNexis` • `RDC` • `Salesforce` • `Looker` • `Zendesk` • `Documentum`
+
+Combined with:
+
+`SQL` • `Python` • `Tableau` • `Streamlit`
+
+---
+
+# 🎯 What Makes This Portfolio Different
+
+This portfolio is not designed to demonstrate dashboards alone.
+
+It demonstrates how **AML domain knowledge and analytics work together**.
+
+```text
+AML Investigation Experience
+            +
+Transaction Monitoring Knowledge
+            +
+KYC / EDD / Sanctions / Fraud
+            +
+SQL & Python
+            +
+EDA & Feature Engineering
+            +
+Tableau & Streamlit
+            =
+Financial Crime & AML Analytics
+```
+
+I approach financial crime analytics with the question:
+
+> **What does the data tell the investigator, what risk does it reveal, and what decision should it support?**
 
 ---
 
 # 🎯 Career Focus
 
-I specialize in designing SQL-driven decision support solutions that enable healthcare organizations to improve operational performance, optimize patient care, monitor executive KPIs, and support evidence-based decision-making.
+My primary career focus is at the intersection of **financial crime investigations and analytics**.
 
-My portfolio combines healthcare operations analytics, insurance analytics, business intelligence, statistical analysis, dashboard development, and experimentation to demonstrate how data can be transformed into actionable insights for executives and operational leaders.
+### Target Areas
 
-Additional interests include customer analytics, retention analysis, and user journey analytics.
+* 🔎 Financial Crime Analyst
+* 🏦 AML Analyst / AML Investigator
+* 📊 Financial Crime Analytics
+* 💳 Transaction Monitoring Analytics
+* 👤 KYC / CDD / EDD Analytics
+* 🌐 Sanctions Analytics
+* 🚨 Fraud Analytics
+* 📈 AML Data Analytics
+* ⚙️ AML Alert Quality / QA Analytics
+* 🧠 Financial Crime Intelligence
 
----
-
-### Core Areas of Interest
-
-- 🏥 Decision Support Analytics
-- 📊 Healthcare Analytics
-- 📈 Business Intelligence
-- 📋 Executive KPI Reporting
-- 📉 Operational Analytics
-- 🩺 Clinical Analytics
-- 🧪 Statistical Experimentation
-- 🧾 SQL Analytics
-- 📊 Dashboard Development
+My goal is to use **AML domain expertise + SQL + Python + Tableau + Streamlit** to help financial institutions identify suspicious activity, prioritize risk, improve investigations, reduce ineffective alerts, and make stronger data-driven financial crime decisions.
 
 ---
 
-This portfolio showcases how SQL, business intelligence, healthcare analytics, statistical methods, and executive reporting can be combined to transform complex operational, clinical, and business data into decision-ready insights.
+# 📚 Education & Professional Development
 
-I'm passionate about helping healthcare organizations make faster, smarter, and more evidence-based decisions through analytics, KPI reporting, and decision support.
+🎓 **Bachelor of Education — Mathematics**
 
-If you're interested in healthcare analytics, decision support, or business intelligence, I'd be happy to connect.
+### Analytics & Technology
+
+* Tableau Desktop Specialist
+* Data Science
+* Generative AI
+* SQL
+* Python
+* Business Intelligence
+* Data Analytics
+
+---
+
+# 📫 Let's Connect
+
+I'm interested in opportunities involving:
+
+**Financial Crime Analytics • AML Investigations • Transaction Monitoring • KYC/EDD • Sanctions • Fraud Analytics • AML Data Analytics**
+
+🐙 **GitHub:** [github.com/Denis0242](https://github.com/Denis0242)
+
+---
+
+### ⭐ Portfolio Mission
+
+> Building financial crime analytics solutions that connect **data, risk, investigations, and decisions**.
+
+**Financial Crime & AML Analytics | AML Investigations • Transaction Monitoring • KYC/EDD • SAR • Sanctions • Fraud | SQL • Python • Tableau • Streamlit**
