@@ -118,6 +118,8 @@ Close / Escalate
 
 `SQL` `Python` `Tableau` `Streamlit` `EDA` `Feature Engineering`
 
+🔗 Repository:[AML Transaction Monitoring](https://github.com/Denis0242/Transaction-Monitoring)
+
 ---
 
 ## 2️⃣ AML Case Investigation & SAR Decision Analytics
@@ -156,6 +158,8 @@ Close / Escalate / SAR Review
 ### Tools
 
 `SQL` `Python` `Tableau` `Streamlit` `AML Analytics`
+
+🔗 Repository:[AML Case-SAR-Decision](https://github.com/Denis0242/Case-SAR-Decision)
 
 ---
 
@@ -197,6 +201,8 @@ Optimization Opportunities
 
 `SQL` `Python` `Tableau` `Streamlit` `QA Analytics`
 
+🔗 Repository: [AML Alert Quality](https://github.com/Denis0242/Alert-Quality)
+
 ---
 
 ## 4️⃣ Customer Risk & KYC/EDD Analytics
@@ -237,7 +243,7 @@ Ongoing Monitoring
 
 `SQL` `Python` `Tableau` `Streamlit` `Risk Analytics`
 
-🔗 Repository: [Customer-KYC-EDD](https://github.com/Denis0242/Customer-KYC-EDD)
+🔗 Repository: [AML Customer-KYC-EDD](https://github.com/Denis0242/Customer-KYC-EDD)
 
 ---
 
@@ -275,6 +281,8 @@ True Match / False Positive / Escalate
 ### Tools
 
 `SQL` `Python` `Tableau` `Streamlit` `Sanctions Analytics`
+
+🔗 Repository: [AML Sanctions Compliance](https://github.com/Denis0242/Sanctions-Compliance)
 
 ---
 
@@ -317,6 +325,8 @@ Customers + Transactions + Alerts
 
 `SQL` `Python` `Tableau` `Streamlit` `Financial Crime Analytics`
 
+🔗 Repository: [AML Financial-Crime](https://github.com/Denis0242/Financial-Crime)
+
 ---
 
 ## 7️⃣ Fraud & Suspicious Transaction Pattern Detection
@@ -358,7 +368,7 @@ Investigation Prioritization
 
 `SQL` `Python` `Tableau` `Streamlit` `Fraud Analytics`
 
-🔗 Repository: [Fraud-Suspicious](https://github.com/Denis0242/Fraud-Suspicious)
+🔗 Repository: [AML Fraud-Suspicious](https://github.com/Denis0242/Fraud-Suspicious)
 
 ---
 
