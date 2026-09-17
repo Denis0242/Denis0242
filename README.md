@@ -2,7 +2,7 @@
 
 ## Financial Crime & AML Analytics
 
-### AML Investigations • Transaction Monitoring • KYC/EDD • SAR • Sanctions • Fraud | SQL • Python • Tableau • Streamlit
+**AML Investigations • Transaction Monitoring • KYC/EDD • SAR • Sanctions • Fraud | SQL • Python • Tableau • Streamlit**
 
 I combine **hands-on AML and financial crime investigation experience** with **data analytics, SQL, Python, Tableau, and Streamlit** to investigate suspicious activity, analyze financial crime risk, improve transaction monitoring, and transform complex compliance data into actionable intelligence.
 
@@ -11,6 +11,14 @@ My portfolio demonstrates the intersection of:
 **AML Domain Expertise + Investigations + Data Analytics + Business Intelligence**
 
 ---
+📍 **Oakland, CA**
+
+📧 [denislinkme@gmail.com](mailto:denislinkme@gmail.com)
+
+🔗 [LinkedIn](https://linkedin.com/in/denis-linkme)   
+
+🐙 [GitHub](https://github.com/Denis0242)
+
 
 # 🔎 About Me
 
@@ -118,6 +126,8 @@ Close / Escalate
 
 `SQL` `Python` `Tableau` `Streamlit` `EDA` `Feature Engineering`
 
+**Live App:** [Streamlit App](https://transaction-monitoring-zt5k9gsitpuxcqzyfcebie.streamlit.app)
+
 🔗 Repository:[AML Transaction Monitoring](https://github.com/Denis0242/Transaction-Monitoring)
 
 ---
@@ -158,6 +168,8 @@ Close / Escalate / SAR Review
 ### Tools
 
 `SQL` `Python` `Tableau` `Streamlit` `AML Analytics`
+
+**Live App:** [Streamlit App](https://case-sar-decision-lbx7y2bqmgkfmaw4aazf7k.streamlit.app)
 
 🔗 Repository:[AML Case-SAR-Decision](https://github.com/Denis0242/Case-SAR-Decision)
 
@@ -201,6 +213,8 @@ Optimization Opportunities
 
 `SQL` `Python` `Tableau` `Streamlit` `QA Analytics`
 
+**Live App:** [Streamlit App](https://alert-quality-ymsnc2mqpfqvg58wtwxgce.streamlit.app)
+
 🔗 Repository: [AML Alert Quality](https://github.com/Denis0242/Alert-Quality)
 
 ---
@@ -243,6 +257,8 @@ Ongoing Monitoring
 
 `SQL` `Python` `Tableau` `Streamlit` `Risk Analytics`
 
+**Live App:** [Streamlit App](https://customer-kyc-edd-2wekjbx3xhfd8xtcg5zf7k.streamlit.app)
+
 🔗 Repository: [AML Customer-KYC-EDD](https://github.com/Denis0242/Customer-KYC-EDD)
 
 ---
@@ -281,6 +297,8 @@ True Match / False Positive / Escalate
 ### Tools
 
 `SQL` `Python` `Tableau` `Streamlit` `Sanctions Analytics`
+
+**Live App:** [Streamlit App](https://sanctions-compliance-iazptqgzctlxyy6wr3djuq.streamlit.app)
 
 🔗 Repository: [AML Sanctions Compliance](https://github.com/Denis0242/Sanctions-Compliance)
 
@@ -325,6 +343,8 @@ Customers + Transactions + Alerts
 
 `SQL` `Python` `Tableau` `Streamlit` `Financial Crime Analytics`
 
+**Live App:** [Streamlit App](https://financial-crime-ckpzfnfmwyszjfejn2y8m4.streamlit.app)
+
 🔗 Repository: [AML Financial-Crime](https://github.com/Denis0242/Financial-Crime)
 
 ---
@@ -367,6 +387,8 @@ Investigation Prioritization
 ### Tools
 
 `SQL` `Python` `Tableau` `Streamlit` `Fraud Analytics`
+
+**Live App:** [Streamlit App](https://fraud-suspicious-eghwstawemxjpxzfy7mszm.streamlit.app)
 
 🔗 Repository: [AML Fraud-Suspicious](https://github.com/Denis0242/Fraud-Suspicious)
 
