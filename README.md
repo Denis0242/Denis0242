@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Denis Agyapong
+# 👋 Hi, I'm Denis 
 
 ## Financial Crime & AML Analytics
 
